@@ -1,0 +1,1092 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-ide"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2018-07-13T13:03:02Z</time></metadata><wpt lat="45.6098376" lon="13.7504454"><name>Impianto marino di Millo Gianni</name><desc>brand=Agip
+name=Impianto marino di Millo Gianni
+operator=Giani Millo
+ref:mise=12853
+waterway=fuel</desc><link href="http://osm.org/browse/node/227709339"/></wpt><wpt lat="53.7011443" lon="7.1615613"><name>C.Carls</name><desc>fuel:diesel=yes
+name=C.Carls
+seamark:information=diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/280776481"/></wpt><wpt lat="54.1790641" lon="12.1015899"><name>node/290794541</name><desc>amenity=fuel
+fuel:diesel=yes
+fuel:octane_95=yes
+seamark:information=diesel;benzine
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/290794541"/></wpt><wpt lat="53.5735052" lon="9.6829267"><name>ARAL</name><desc>amenity=fuel
+brand=ARAL
+fuel:diesel=yes
+fuel:octane_95=yes
+name=ARAL
+opening_hours=Mo 09:00-12:00; Tu-Su 09:00-12:00,13:30-18:00; We 13:30-18:00; Nov-Mar off
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://www.hamburger-yachthafen.de/tankstelle.html</desc><link href="http://osm.org/browse/node/292279123"/></wpt><wpt lat="54.1778242" lon="7.88912"><name>Rickmers Bootstankstelle</name><desc>amenity=fuel
+ft_link=www.freietonne.de?edit=10839
+fuel:diesel=yes
+fuel:octane_95=yes
+name=Rickmers Bootstankstelle
+waterway=fuel</desc><link href="http://osm.org/browse/node/294372626"/></wpt><wpt lat="44.4173433" lon="8.8377666"><name>Distributore carburante Marina Genova Aeroporto</name><desc>brand=Pompe Bianche
+name=Distributore carburante Marina Genova Aeroporto
+operator=Marina Genova Distribuzione srl
+ref:mise=29448
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/303929471"/></wpt><wpt lat="52.3983536" lon="13.07209"><name>Tankstation Weiße Flotte</name><desc>name=Tankstation Weiße Flotte
+opening_hours=May-Sep: Mo-Fr 09:00-18:00; May-Sep: Sa-Su 10:00-18:00; Oct-Apr: Mo-Fr 09:00-18:00; Oct-Apr: Sa-Su 10:00-15:00
+phone=+49 331 292022
+seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/316698925"/></wpt><wpt lat="52.0138965" lon="14.185301"><name>Wassertankstelle Selbstbedienung</name><desc>brand=Wassertankstelle
+name=Wassertankstelle Selbstbedienung
+opening_hours=May-Sep: Mo-Su 08:00-19:00
+payment:maestro=yes
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+shop=no
+waterway=fuel</desc><link href="http://osm.org/browse/node/319950414"/></wpt><wpt lat="54.3426896" lon="13.5010173"><name>node/331982372</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/331982372"/></wpt><wpt lat="48.2099958" lon="16.4275565"><name>node/366664404</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/366664404"/></wpt><wpt lat="53.5294861" lon="10.0402632"><name>Tankschiff Bilwerder</name><desc>name=Tankschiff Bilwerder
+waterway=fuel</desc><link href="http://osm.org/browse/node/431057460"/></wpt><wpt lat="54.314691" lon="13.099322"><name>Sundtank</name><desc>name=Sundtank
+seamark:information=Phone: +49 3831 280380; petrol on demand
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/431061192"/></wpt><wpt lat="54.0951222" lon="13.4384986"><name>node/431061456</name><desc>description=03-AUG-08 13:39:38
+height=-8.285645
+waterway=fuel</desc><link href="http://osm.org/browse/node/431061456"/></wpt><wpt lat="52.8690987" lon="14.1369914"><name>Hohensaaten</name><desc>description=Kein Diesel für Sportboote
+name=Hohensaaten
+seamark:notice:addition=bottom_board
+seamark:notice:category=keep_lookout
+seamark:notice:function=regulation
+seamark:notice:information=Tankstelle Berufsschiffe
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/431063911"/></wpt><wpt lat="52.684028" lon="13.244677"><name>Tankstelle Havelbaude</name><desc>fuel:diesel=yes
+name=Tankstelle Havelbaude
+phone=+49 170 8926061
+seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://www.marina-havelbaude.de</desc><link href="http://osm.org/browse/node/431065010"/></wpt><wpt lat="53.3716761" lon="10.5658876"><name>Tankstelle</name><desc>description=Diesel
+name=Tankstelle
+waterway=fuel</desc><link href="http://osm.org/browse/node/431065015"/></wpt><wpt lat="54.5123684" lon="13.1661315"><name>Bunkerstation Schaprode</name><desc>amenity=fuel
+description=Nur Diesel
+name=Bunkerstation Schaprode
+operator=Shell
+phone=+49 38309 1209
+seamark:information=diesel;benzine
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/431065018"/></wpt><wpt lat="53.6605186" lon="14.5184553"><name>Orlen</name><desc>name=Orlen
+name:de=Ziegenort Tankstelle
+waterway=fuel</desc><link href="http://osm.org/browse/node/431065021"/></wpt><wpt lat="53.5104776" lon="12.689859"><name>Bootstankstelle Waren</name><desc>amenity=fuel
+name=Bootstankstelle Waren
+opening_hours=Mo-Fr 8:00-19:00
+phone=+49 172 6426918
+seamark:name=Bootstankstelle Waren
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/431066285"/></wpt><wpt lat="49.4170589" lon="8.5011234"><name>Tankstelle für Sportboote</name><desc>description=Tankstelle für Super und Diesel und Fäkalienabsauganlage des MCK
+ft_link=www.freietonne.de?edit=2990
+name=Tankstelle für Sportboote
+waterway=fuel</desc><link href="http://osm.org/browse/node/431070698"/></wpt><wpt lat="45.08468" lon="13.63453"><name>INA Rovinj Anleger</name><desc>description=INA Tankstelle für Sportboote am Anleger östlich von Rovinj
+ft_link=www.freietonne.de?edit=3027
+name=INA Rovinj Anleger
+waterway=fuel</desc><link href="http://osm.org/browse/node/431070867"/></wpt><wpt lat="54.4215523" lon="11.1892415"><name>Brennstoff Burgstaaken</name><desc>name=Brennstoff Burgstaaken
+waterway=fuel</desc><link href="http://osm.org/browse/node/431077436"/></wpt><wpt lat="54.3727477" lon="10.9910478"><name>Brennstoff Heiligenhafen</name><desc>amenity=fuel
+description=Nur Diesel
+fuel:diesel=yes
+name=Brennstoff Heiligenhafen
+opening_hours=closed
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+toilets:wheelchair=no
+waterway=fuel
+wheelchair=no
+wheelchair:description=Wassertankstelle für Schiffe!</desc><link href="http://osm.org/browse/node/431077550"/></wpt><wpt lat="53.180617" lon="12.8975481"><name>Tankstelle Marina Wolfsbruch</name><desc>name=Tankstelle Marina Wolfsbruch
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+wheelchair=limited</desc><link href="http://osm.org/browse/node/431078231"/></wpt><wpt lat="53.4671" lon="12.3515801"><name>Susanne Malow</name><desc>addr:city=Fünfseen
+addr:housenumber=1
+addr:postcode=17213
+addr:street=Zum Hafen
+addr:suburb=Lenz-Süd
+amenity=fuel
+brand=Independent
+email=info@lenzer-hafen.de
+fuel:diesel=yes
+fuel:octane_95=yes
+name=Susanne Malow
+opening_hours=Tu-Su 08:00-15:00;Sa 08:00-12:00
+operator=Susanne Malow
+phone=+49 171 4018739
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://lenzer-hafen.de</desc><link href="http://osm.org/browse/node/431078254"/></wpt><wpt lat="52.9856175" lon="13.3344481"><name>node/431078567</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/431078567"/></wpt><wpt lat="52.4515513" lon="13.5775226"><name>Spreves Wassertankstelle</name><desc>email=info@spreves.com
+fuel:diesel=yes
+fuel:octane_95=yes
+image=http://www.spreves.com/assets/images/100_6518_large.jpg
+name=Spreves Wassertankstelle
+opening_hours=24/7
+phone=+49 30 65667836; +49 30 656678 011
+seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+self_service=yes
+waterway=fuel
+website=http://www.spreves.com/index.php?id=39</desc><link href="http://osm.org/browse/node/431089422"/></wpt><wpt lat="52.3041498" lon="13.646882"><name>Bootstankstelle</name><desc>description=Lutra Wassertankstelle (Super, Diesel, Schiffsdiesel, Fäkalentsorgung), Selbstbedienung mit Automatenzahlung (EC), Fäkalienautomat mit 2€-Münzen, durchgehend geöffnet
+fuel:diesel=yes
+fuel:octane_95=yes
+name=Bootstankstelle
+opening_hours=24/7
+payment:coins=yes
+payment:maestro=yes
+seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+self_service=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/431089431"/></wpt><wpt lat="50.332717" lon="7.705335"><name>Tankstelle Bootsservice Kutscher</name><desc>amenity=fuel
+description=http://www.boots-service-kutscher.de/index.html
+name=Tankstelle Bootsservice Kutscher
+opening_hours=Apr-Oct Mo-Fr 09:00-12:00,13:00-18:00; Apr-Oct Sa-Su 09:00-18:00
+phone=+49 2603 4297
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://boots-service-kutscher.de/</desc><link href="http://osm.org/browse/node/431089563"/></wpt><wpt lat="52.5019415" lon="13.1885707"><name>Bootstankstelle Berlin</name><desc>contact:phone=+49 30 33936766
+contact:website=http://bootstankstelle-berlin.de/
+description=Marina Lanke
+fuel:1_50=yes
+fuel:diesel=yes
+fuel:octane_91=no
+fuel:octane_95=yes
+name=Bootstankstelle Berlin
+opening_hours=Mo-Fr 10:00-20:00
+seamark:name=Bootstankstelle Berlin
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+shop=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/431315670"/></wpt><wpt lat="54.612253" lon="13.355058"><name>Sundtank GmbH</name><desc>description=Hafen Breege
+fuel:diesel=yes
+name=Sundtank GmbH
+opening_hours=08:00-19:00
+phone=+49 381 280380
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+toilets:wheelchair=no
+waterway=fuel
+wheelchair=limited</desc><link href="http://osm.org/browse/node/431326250"/></wpt><wpt lat="53.9111758" lon="14.2665208"><name>Tankstelle</name><desc>name=Tankstelle
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/443385954"/></wpt><wpt lat="54.5817144" lon="10.0253511"><name>Tankstelle Damp</name><desc>name=Tankstelle Damp
+name:en=petrolstation
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/447937104"/></wpt><wpt lat="49.814136" lon="6.750107"><name>Schweich</name><desc>ft_link=www.freietonne.de?edit=11238
+fuel:diesel=yes
+fuel:octane_92=yes
+name=Schweich
+waterway=fuel</desc><link href="http://osm.org/browse/node/490057833"/></wpt><wpt lat="43.3270459" lon="16.4429193"><name>INA Milna-marina</name><desc>addr:city=Milna
+addr:country=HR
+addr:housenumber=10
+addr:postcode=21405
+addr:street=Milna
+amenity=fuel
+brand=INA
+ft_link=www.freietonne.de?edit=11830
+fuel:diesel=yes
+fuel:octane_95=yes
+name=INA Milna-marina
+opening_hours=Mo-Sa 07:00-13:00
+operator=INA
+payment:american_express=yes
+payment:cash=yes
+payment:diners_club=yes
+payment:discover_card=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:visa=yes
+payment:visa_electron=yes
+phone=+385 91 4971 237
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+shop=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/495575242"/></wpt><wpt lat="43.8247477" lon="15.5931825"><name>node/497502731</name><desc>amenity=fuel
+ft_symbol=112
+fuel:diesel=yes
+fuel:octane_95=yes
+opening_hours=6:00-22:00
+phone=+385 22 434499
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/497502731"/></wpt><wpt lat="43.7527178" lon="15.7488655"><name>Euro Petrol</name><desc>amenity=fuel
+name=Euro Petrol
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/498428331"/></wpt><wpt lat="47.3675755" lon="8.5436015"><name>node/503253118</name><desc>contact:phone=+41 44 411 84 42
+fuel:benzine=yes
+fuel:diesel=yes
+seamark:information=diesel;benzine;Tel: 044 411 84 42
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/503253118"/></wpt><wpt lat="47.338523" lon="8.5405203"><name>Avia Service Seerose</name><desc>brand=Avia
+fuel:benzine=yes
+fuel:diesel=yes
+name=Avia Service Seerose
+operator=Avia Osterwalder Zürich
+seamark:information=diesel;benzine
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/503253241"/></wpt><wpt lat="52.8498663" lon="5.6914308"><name>node/506434592</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/506434592"/></wpt><wpt lat="52.8524709" lon="5.6848862"><name>node/506434646</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/506434646"/></wpt><wpt lat="54.4358111" lon="10.1725184"><name>Yacht Tankstelle Strande</name><desc>ft_symbol=112
+name=Yacht Tankstelle Strande
+phone=+49 4349 8203
+seamark:information=diesel;benzine
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://ytstrande.de/</desc><link href="http://osm.org/browse/node/513504646"/></wpt><wpt lat="51.8627104" lon="6.080561"><name>node/530792412</name><desc>description=Super;Diesel
+ft_link=www.freietonne.de?edit=13340
+phone=+31-316-542958
+seamark:name=Tankstation de Bijland
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://www.ts-debijland.nl</desc><link href="http://osm.org/browse/node/530792412"/></wpt><wpt lat="50.926729" lon="6.9650308"><name>node/558838623</name><desc>description=Bootstankstelle für Diesel und Superbenzin im KAMC-Yachthafen. Hafenmeister : 0221-9320585
+waterway=fuel</desc><link href="http://osm.org/browse/node/558838623"/></wpt><wpt lat="52.8729381" lon="5.8239768"><name>node/599578269</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/599578269"/></wpt><wpt lat="49.9713864" lon="10.6706657"><name>node/606698111</name><desc>description=Straßentankstelle, gut zu erreichen
+waterway=fuel</desc><link href="http://osm.org/browse/node/606698111"/></wpt><wpt lat="51.1570274" lon="5.882881"><name>Fuel station Diesel</name><desc>description=Diesel
+ft_link=www.freietonne.de?edit=17701
+name=Fuel station Diesel
+waterway=fuel</desc><link href="http://osm.org/browse/node/608983342"/></wpt><wpt lat="43.5132237" lon="16.2462633"><name>INA Trogir-marina</name><desc>addr:city=Trogir
+addr:country=HR
+addr:housenumber=26
+addr:postcode=21220
+addr:street=Put Cumbrijana
+amenity=fuel
+brand=INA
+fuel:diesel=yes
+fuel:octane_95=yes
+name=INA Trogir-marina
+opening_hours=Mo-Su 07:00-21:00
+operator=INA
+payment:american_express=yes
+payment:cash=yes
+payment:diners_club=yes
+payment:discover_card=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:visa=yes
+payment:visa_electron=yes
+phone=+385 91 4971 471
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+shop=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/626998424"/></wpt><wpt lat="43.9388016" lon="15.4396463"><name>INA Biograd na Moru-obala</name><desc>addr:city=Biograd na Moru
+addr:country=HR
+addr:housenumber=36a
+addr:postcode=23210
+addr:street=Obala Kralja Petra Krešimira IV.
+amenity=fuel
+brand=INA
+description:en=Water depth 2.3-3.3 m
+fuel:diesel=yes
+fuel:octane_95=yes
+name=INA Biograd na Moru-obala
+opening_hours=Mo-Su 07:00-19:00
+operator=INA
+phone=+385 91 4971 315
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+shop=yes
+waterway=fuel
+website=http://www.ina.hr/default.aspx?id=474&amp;benzid=322</desc><link href="http://osm.org/browse/node/627008408"/></wpt><wpt lat="52.4056693" lon="12.543493"><name>Yachtausrüster Hohmann</name><desc>description=BrK 58.5, Tel. 03381-660166
+name=Yachtausrüster Hohmann
+waterway=fuel</desc><link href="http://osm.org/browse/node/672099224"/></wpt><wpt lat="44.6612962" lon="-1.1506956"><name>node/676316581</name><desc>fuel:benzine=yes
+fuel:diesel=yes
+seamark:information=diesel;benzine
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+source=cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010
+waterway=fuel</desc><link href="http://osm.org/browse/node/676316581"/></wpt><wpt lat="49.8607416" lon="8.3572926"><name>Tankstelle am Wasser</name><desc>amenity=fuel
+description=Diesel und Benzin
+name=Tankstelle am Wasser
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/695198198"/></wpt><wpt lat="48.0303396" lon="7.5691481"><name>node/703097439</name><desc>description=Diesel und Benzin
+waterway=fuel</desc><link href="http://osm.org/browse/node/703097439"/></wpt><wpt lat="51.1960649" lon="5.9674856"><name>Hermus Watersport</name><desc>access=customers
+fuel:diesel=yes
+fuel:octane_91=yes
+fuel:octane_95=yes
+name=Hermus Watersport
+operator=Hermus Watersport
+waterway=fuel
+website=http://www.hermus-watersport.nl</desc><link href="http://osm.org/browse/node/706311832"/></wpt><wpt lat="52.397398" lon="9.5518298"><name>ESSO-Bunkerstation Lohnde</name><desc>amenity=fuel
+description=W. Arnemann GmbH; Dieselkraftstoff (auch für Yachten), Frischwasser, Getränke, Bootszubehör. Mo-Fr 8.00- 17.00 Uhr und Sa 8.00-14.00Uhr. Sonst nach telefonischer Absprache 05137-4636 oder -2401, VHF 14
+drinking_water=yes
+name=ESSO-Bunkerstation Lohnde
+phone=+49 5137 4636
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+vhf=14
+waterway=fuel</desc><link href="http://osm.org/browse/node/747916914"/></wpt><wpt lat="52.4882948" lon="5.0615827"><name>node/769969562</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/769969562"/></wpt><wpt lat="53.7467459" lon="14.0667591"><name>node/818792799</name><desc>amenity=fuel
+description=tägl 08.00-18.00 Uhr
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/818792799"/></wpt><wpt lat="49.9518325" lon="7.1294163"><name>node/822160707</name><desc>ft_link=www.freietonne.de?edit=34151
+fuel:diesel=yes
+fuel:octane_95=yes
+opening_hours=Mo-Fr 09:00-12:00
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/822160707"/></wpt><wpt lat="54.1215012" lon="13.7540983"><name>node/827507626</name><desc>amenity=fuel
+description=Diesel und Benzin, teuer
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/827507626"/></wpt><wpt lat="52.3890618" lon="13.0401034"><name>Tankstation auf dem Kiewitt</name><desc>fuel:1_50=yes
+fuel:diesel=yes
+fuel:octane_95=yes
+name=Tankstation auf dem Kiewitt
+phone=+49 331 973365
+seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://bootsmotoren-zweig.de/</desc><link href="http://osm.org/browse/node/890632340"/></wpt><wpt lat="45.3480133" lon="12.3162112"><name>node/895559834</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+fuel:octane_98=no
+operator=IP
+waterway=fuel</desc><link href="http://osm.org/browse/node/895559834"/></wpt><wpt lat="48.671922" lon="-3.9239432"><name>node/936287614</name><desc>fuel:benzine=yes
+fuel:diesel=yes
+seamark:information=diesel;benzine
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+source=cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010
+waterway=fuel</desc><link href="http://osm.org/browse/node/936287614"/></wpt><wpt lat="52.1960206" lon="4.5356534"><name>node/1126385854</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/1126385854"/></wpt><wpt lat="48.3328186" lon="16.3296747"><name>node/1174070093</name><desc>ft_symbol=112
+waterway=fuel</desc><link href="http://osm.org/browse/node/1174070093"/></wpt><wpt lat="48.2204701" lon="16.4136131"><name>node/1174992167</name><desc>ft_symbol=112
+waterway=fuel</desc><link href="http://osm.org/browse/node/1174992167"/></wpt><wpt lat="48.2336807" lon="16.3966846"><name>Eiltank 52</name><desc>name=Eiltank 52
+operator=DTSG
+waterway=fuel</desc><link href="http://osm.org/browse/node/1178234226"/></wpt><wpt lat="43.8371074" lon="7.9114358"><name>node/1231378678</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1231378678"/></wpt><wpt lat="44.0767696" lon="15.1940106"><name>node/1276634964</name><desc>description=15.05.-30.09.-Mo-So 6-24 01.10.-14.05.-Mo-So 6-22
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1276634964"/></wpt><wpt lat="41.8569449" lon="9.4035583"><name>node/1307124810</name><desc>fuel:benzine=yes
+fuel:diesel=yes
+seamark:information=diesel;benzine
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1307124810"/></wpt><wpt lat="42.6803472" lon="9.2973963"><name>node/1328950615</name><desc>seamark:information=diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1328950615"/></wpt><wpt lat="52.5276879" lon="13.2009602"><name>Bunkerboot Shell 5</name><desc>brand=Shell
+contact:phone=+49 172 3097072
+contact:website=http://www.schiffsservice.de/service/schiffstankstellen/index.php
+fuel:diesel=yes
+name=Bunkerboot Shell 5
+operator=Bunkerboot
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1337616506"/></wpt><wpt lat="54.4123837" lon="11.1983525"><name>Firma Weilandt</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+name=Firma Weilandt
+phone=+49 4371 3833
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1338443091"/></wpt><wpt lat="53.0292731" lon="13.3126198"><name>node/1349421989</name><desc>fuel:diesel=yes
+fuel:octane_95=no
+seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1349421989"/></wpt><wpt lat="53.276715" lon="12.9859081"><name>node/1353947263</name><desc>seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1353947263"/></wpt><wpt lat="43.2811065" lon="5.3103048"><name>node/1359917398</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1359917398"/></wpt><wpt lat="52.962876" lon="4.7811717"><name>Diesel</name><desc>name=Diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1360342971"/></wpt><wpt lat="52.4724311" lon="1.7504421"><name>node/1360343008</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1360343008"/></wpt><wpt lat="53.8742529" lon="8.7072264"><name>node/1360357105</name><desc>fuel:diesel=yes
+seamark:information=diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1360357105"/></wpt><wpt lat="45.4767198" lon="10.7163538"><name>Nautica Casarola boat fuel</name><desc>ele=113
+name=Nautica Casarola boat fuel
+waterway=fuel</desc><link href="http://osm.org/browse/node/1361543227"/></wpt><wpt lat="52.5277485" lon="5.7102953"><name>Diesel</name><desc>description=WSV Dronten
+name=Diesel
+waterway=fuel</desc><link href="http://osm.org/browse/node/1366779107"/></wpt><wpt lat="50.0327108" lon="8.1805718"><name>Tankstelle und Werft Schneider</name><desc>name=Tankstelle und Werft Schneider
+waterway=fuel</desc><link href="http://osm.org/browse/node/1368197464"/></wpt><wpt lat="52.0542643" lon="5.0013762"><name>node/1368199605</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/1368199605"/></wpt><wpt lat="52.0437901" lon="4.9430183"><name>node/1368199756</name><desc>description=Benzin und Diesel
+waterway=fuel</desc><link href="http://osm.org/browse/node/1368199756"/></wpt><wpt lat="52.1307915" lon="5.0491658"><name>Boei26</name><desc>fuel:diesel=yes
+name=Boei26
+seamark:information=diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1373920006"/></wpt><wpt lat="52.420463" lon="12.5773266"><name>Tankstelle Marina Schoners Wehr</name><desc>name=Tankstelle Marina Schoners Wehr
+operator=Marina Schoners Wehr
+seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1390007994"/></wpt><wpt lat="54.5691421" lon="13.1088969"><name>Bunkerstation Vitte</name><desc>name=Bunkerstation Vitte
+seamark:information=diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1392103137"/></wpt><wpt lat="51.717361" lon="4.694806"><name>node/1395865392</name><desc>description=Diesel + Benzin
+waterway=fuel</desc><link href="http://osm.org/browse/node/1395865392"/></wpt><wpt lat="51.4424414" lon="5.4243455"><name>node/1395865545</name><desc>description=Diesel
+fuel:diesel=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/1395865545"/></wpt><wpt lat="51.1441279" lon="5.8791372"><name>Tullemanns Oliehandel</name><desc>amenity=fuel
+description=Grossist mit eigenem Tankboot, einfach zum Anlegen und Auftanken.
+name=Tullemanns Oliehandel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1415312988"/></wpt><wpt lat="51.1289634" lon="5.8146555"><name>node/1415313129</name><desc>description=Benzin und Diesel
+waterway=fuel</desc><link href="http://osm.org/browse/node/1415313129"/></wpt><wpt lat="51.1067708" lon="5.8165854"><name>MCS MarineCenter</name><desc>name=MCS MarineCenter
+waterway=fuel
+website=http://www.marinecenter.be/index.php</desc><link href="http://osm.org/browse/node/1415313157"/></wpt><wpt lat="46.4890461" lon="6.7393176"><name>Uniquement bateaux</name><desc>amenity=fuel
+fuel:octane_95=yes
+name=Uniquement bateaux
+operator=Agip
+waterway=fuel</desc><link href="http://osm.org/browse/node/1420780413"/></wpt><wpt lat="45.420063" lon="12.3751361"><name>node/1434172755</name><desc>brand=Total
+fuel:diesel=yes
+fuel:octane_95=yes
+opening_hours=24/7
+waterway=fuel</desc><link href="http://osm.org/browse/node/1434172755"/></wpt><wpt lat="51.3967166" lon="3.5679578"><name>node/1438772467</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1438772467"/></wpt><wpt lat="46.1442463" lon="-1.1679021"><name>node/1445028180</name><desc>opening_hours=24/7
+payment:credit_cards=all
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1445028180"/></wpt><wpt lat="51.39227" lon="6.1492517"><name>node/1446067053</name><desc>amenity=fuel
+description=Bij WSV "De Maas"
+seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1446067053"/></wpt><wpt lat="53.9553575" lon="10.8715882"><name>node/1454712825</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/1454712825"/></wpt><wpt lat="49.9291128" lon="1.084021"><name>node/1456813474</name><desc>fuel:diesel=yes
+seamark:information=diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1456813474"/></wpt><wpt lat="45.7373522" lon="4.8238495"><name>node/1469217312</name><desc>ft_symbol=112
+waterway=fuel</desc><link href="http://osm.org/browse/node/1469217312"/></wpt><wpt lat="54.4337975" lon="13.0325895"><name>Borbe Yachttank</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+name=Borbe Yachttank
+opening_hours=07:30-11:00,16:00-19:00
+seamark:name=Borbe Yachttank
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1480259001"/></wpt><wpt lat="42.0031126" lon="15.0011719"><name>node/1485525897</name><desc>seamark:information=diesel;benzine
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1485525897"/></wpt><wpt lat="47.1010803" lon="5.2608891"><name>node/1488867113</name><desc>operator=Ets Blanquard
+seamark:information=diesel;benzine
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1488867113"/></wpt><wpt lat="47.0243565" lon="-2.297632"><name>node/1498665726</name><desc>amenity=fuel
+waterway=fuel</desc><link href="http://osm.org/browse/node/1498665726"/></wpt><wpt lat="53.3568921" lon="12.726994"><name>Wassertankstelle</name><desc>amenity=fuel
+fuel:diesel=yes
+fuel:octane_95=yes
+name=Wassertankstelle
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1524774319"/></wpt><wpt lat="51.6624247" lon="6.588091"><name>Nur Diesel</name><desc>amenity=fuel
+description=Beim Yacht Club Wesel (YCW)
+name=Nur Diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1544996256"/></wpt><wpt lat="51.439221" lon="6.7643725"><name>Tankstation: Marina Duisburg</name><desc>amenity=fuel
+description=Benzin, Diesel, pump-out
+fuel:diesel=yes
+fuel:octane_95=yes
+name=Tankstation: Marina Duisburg
+phone=+49 203 289 5697
+seamark:information=diesel;benzine
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1544997433"/></wpt><wpt lat="41.3763697" lon="2.1869115"><name>node/1567522829</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/1567522829"/></wpt><wpt lat="52.0027186" lon="4.3624976"><name>node/1571092739</name><desc>description=Bunkerplaats
+mooring=yes
+waterway=fuel
+wheelchair=no</desc><link href="http://osm.org/browse/node/1571092739"/></wpt><wpt lat="45.5374212" lon="12.7233961"><name>node/1598876121</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1598876121"/></wpt><wpt lat="45.4537992" lon="12.4334546"><name>node/1598948585</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1598948585"/></wpt><wpt lat="45.5932031" lon="12.8589472"><name>node/1599322805</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1599322805"/></wpt><wpt lat="45.4394329" lon="10.6924462"><name>node/1608056247</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/1608056247"/></wpt><wpt lat="52.3416831" lon="5.1339038"><name>node/1617756286</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1617756286"/></wpt><wpt lat="45.5052366" lon="13.5967694"><name>OMV - Portorož - Marina</name><desc>addr:city=Portorož
+addr:housenumber=8
+addr:postcode=6320
+addr:street=Cesta Solinarjev
+amenity=fuel
+brand=OMV
+name=OMV - Portorož - Marina
+opening_hours=Oct-May: off; Jun-Sep: Mo-Su 09:00-19:00; PH 13:00-14:00
+operator=OMV Slovenija d.o.o.
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1640498347"/></wpt><wpt lat="51.6649301" lon="7.0238497"><name>node/1641264622</name><desc>description=Diesel
+waterway=fuel</desc><link href="http://osm.org/browse/node/1641264622"/></wpt><wpt lat="51.5658972" lon="7.2548308"><name>node/1661449074</name><desc>amenity=fuel
+description=AMC Castrop, nur Diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1661449074"/></wpt><wpt lat="42.3733967" lon="3.1635063"><name>Port de Llançà</name><desc>name=Port de Llançà
+waterway=fuel</desc><link href="http://osm.org/browse/node/1696691528"/></wpt><wpt lat="42.2543804" lon="3.1763221"><name>Port Roses</name><desc>description=VHF 9
+name=Port Roses
+waterway=fuel</desc><link href="http://osm.org/browse/node/1696707707"/></wpt><wpt lat="49.0224601" lon="12.1381649"><name>Bunkerschiff Castrol</name><desc>description=Mo-Fr, auch für Sportboote,Kein Diesel für Sportboote UKW:10 Phone:+49 0941-791081+0173 6220312
+name=Bunkerschiff Castrol
+waterway=fuel</desc><link href="http://osm.org/browse/node/1725630687"/></wpt><wpt lat="51.6717067" lon="4.0835172"><name>node/1726393452</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1726393452"/></wpt><wpt lat="43.7830985" lon="7.5205489"><name>node/1758578343</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/1758578343"/></wpt><wpt lat="52.9243711" lon="5.0459628"><name>node/1767413130</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1767413130"/></wpt><wpt lat="52.8761372" lon="5.3637137"><name>node/1767419285</name><desc>fuel:diesel=yes
+seamark:information=diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1767419285"/></wpt><wpt lat="45.4514068" lon="12.3480183"><name>node/1781925674</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/1781925674"/></wpt><wpt lat="53.1290657" lon="5.9388284"><name>Compaan - Wester</name><desc>brand=Compaan
+name=Compaan - Wester
+operator=Wester
+seamark:small_craft_facility:category=fuel_station
+waterway=fuel</desc><link href="http://osm.org/browse/node/1785239680"/></wpt><wpt lat="42.7025454" lon="3.0377867"><name>Fuel, Boats Service</name><desc>name=Fuel, Boats Service
+waterway=fuel</desc><link href="http://osm.org/browse/node/1785377205"/></wpt><wpt lat="53.3712083" lon="10.5662312"><name>node/1804814085</name><desc>seamark:name=Dieseltankstelle - Frühauf GbR
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+source=WSV
+waterway=fuel</desc><link href="http://osm.org/browse/node/1804814085"/></wpt><wpt lat="52.4180456" lon="12.9175483"><name>Bootstankstelle Yachthafen Ringel</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+name=Bootstankstelle Yachthafen Ringel
+phone=+49 172 3888104
+seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://www.marina-ringel.de/aktuelles/eindruecke-und-angebote/index.html</desc><link href="http://osm.org/browse/node/1810811493"/></wpt><wpt lat="52.6629924" lon="12.2793197"><name>MSW Havelboot GmbH</name><desc>contact:phone=+49 172 3875106
+name=MSW Havelboot GmbH
+opening_hours=Mo-Fr 07:00-15:00
+phone=+49 3385 511062
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://www.havelboot.de/index.php?page=boots-tankstelle</desc><link href="http://osm.org/browse/node/1816233322"/></wpt><wpt lat="53.2313089" lon="11.4253506"><name>Bootstankstelle Eldena</name><desc>description=nur Diesel
+fuel:diesel=yes
+name=Bootstankstelle Eldena
+waterway=fuel</desc><link href="http://osm.org/browse/node/1819236357"/></wpt><wpt lat="52.9808954" lon="5.8878921"><name>De Welle</name><desc>description=Diesel only
+name=De Welle
+waterway=fuel</desc><link href="http://osm.org/browse/node/1834356263"/></wpt><wpt lat="52.4065635" lon="12.4866374"><name>node/1842892282</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/1842892282"/></wpt><wpt lat="53.5436809" lon="9.9770262"><name>node/1854585407</name><desc>description=Diesel, Tel: 040 3193016
+waterway=fuel</desc><link href="http://osm.org/browse/node/1854585407"/></wpt><wpt lat="44.9509536" lon="14.414735"><name>INA Cres-marina</name><desc>addr:city=Cres
+addr:country=HR
+addr:housenumber=2/a
+addr:postcode=51557
+addr:street=Obala sv. Benedikta
+amenity=fuel
+brand=INA
+contact:phone=+385 91 4971 143
+description=Benzin und Diesel
+fuel:diesel=yes
+fuel:octane_95=yes
+name=INA Cres-marina
+opening_hours=Mo-Sa 08:00-13:00,16:00-19:00; Su 08:00-13:00
+operator=INA
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+shop=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/1876274802"/></wpt><wpt lat="49.5105342" lon="6.3644098"><name>node/1902669877</name><desc>amenity=fuel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1902669877"/></wpt><wpt lat="52.4920032" lon="13.4868744"><name>Bunkerboot Spree</name><desc>brand=Mobil
+description=Keine Service für Sportboote
+fuel:1_50=no
+fuel:diesel=yes
+fuel:octane_91=no
+fuel:octane_95=no
+name=Bunkerboot Spree
+opening_hours=Mo-Fr 10:00-16:00
+phone=+49 0170 2837725
+seamark:bunker_station:category=diesel
+seamark:name=Bunkerboot Spree
+seamark:type=bunker_station
+vhf=10
+waterway=fuel
+website=http://www.nwb-bunker.de/</desc><link href="http://osm.org/browse/node/1912561249"/></wpt><wpt lat="52.6745842" lon="12.0109064"><name>node/1921663561</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1921663561"/></wpt><wpt lat="53.4920469" lon="12.4806058"><name>node/1929715924</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1929715924"/></wpt><wpt lat="41.1423367" lon="9.4948134"><name>node/1960908598</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1960908598"/></wpt><wpt lat="53.1146762" lon="12.8872226"><name>node/1976446377</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/1976446377"/></wpt><wpt lat="45.8153672" lon="8.5487123"><name>node/2003469149</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/2003469149"/></wpt><wpt lat="43.5463347" lon="10.299365"><name>node/2018665595</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+opening_hours=Su-Sa 08:00-12:00,14:00-19:00
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2018665595"/></wpt><wpt lat="52.5286961" lon="13.2000985"><name>Bunkerboot Aral 13</name><desc>name=Bunkerboot Aral 13
+phone=+49 172 3000226
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2024984797"/></wpt><wpt lat="52.333008" lon="5.0705748"><name>node/2075100824</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2075100824"/></wpt><wpt lat="43.7188953" lon="15.8909083"><name>Lukoil</name><desc>addr:city=Šibenik
+addr:country=HR
+addr:postcode=22000
+addr:street=Uvala Duboka
+amenity=fuel
+email=bp.sibenik@lukoil.hr
+fuel:diesel=yes
+fuel:lpg=yes
+fuel:octane_95=yes
+name=Lukoil
+opening_hours=24/7
+phone=+38522646643
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+shop=yes
+waterway=fuel
+website=http://www.lukoil.hr/postaje/</desc><link href="http://osm.org/browse/node/2094226086"/></wpt><wpt lat="52.1244792" lon="11.6462032"><name>node/2117763730</name><desc>description=Benzin / Diesel
+opening_hours=08:00-22:00
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2117763730"/></wpt><wpt lat="48.4947744" lon="7.7806322"><name>node/2126518942</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2126518942"/></wpt><wpt lat="48.5777794" lon="7.8030055"><name>node/2126519533</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/2126519533"/></wpt><wpt lat="43.2820872" lon="2.9184209"><name>node/2133762969</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2133762969"/></wpt><wpt lat="54.4216529" lon="11.1904449"><name>Baltic Kölln Bunkerstation</name><desc>brand=Esso
+fuel:diesel=yes
+name=Baltic Kölln Bunkerstation
+operator=Baltic Kölln Burgstaaken
+phone=+49 4371 3151
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+start_date=1929
+waterway=fuel
+website=http://baltickoelln.de/de/bunkerstation.html</desc><link href="http://osm.org/browse/node/2153078529"/></wpt><wpt lat="52.3093537" lon="5.1465417"><name>node/2161267403</name><desc>amenity=fuel
+description=Benzin &amp; Diesel
+seamark:name=Tankstation: JH Naarden
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2161267403"/></wpt><wpt lat="45.4873379" lon="12.4176728"><name>node/2164497288</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/2164497288"/></wpt><wpt lat="50.3650286" lon="-4.1667055"><name>node/2210117310</name><desc>opening_hours=00:00-23:59
+operator=Mayflower Marina
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2210117310"/></wpt><wpt lat="43.1360638" lon="6.3734625"><name>node/2213245632</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2213245632"/></wpt><wpt lat="53.0616742" lon="5.5180335"><name>node/2244531690</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/2244531690"/></wpt><wpt lat="52.753213" lon="12.2020375"><name>node/2273169199</name><desc>seamark:small_craft_facility:category=fuel_station;pump-out
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2273169199"/></wpt><wpt lat="51.9702491" lon="7.6631478"><name>node/2296728313</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2296728313"/></wpt><wpt lat="43.123652" lon="6.365451"><name>node/2323046781</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2323046781"/></wpt><wpt lat="53.0252599" lon="5.6842319"><name>node/2332718417</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/2332718417"/></wpt><wpt lat="50.1535359" lon="7.7086277"><name>Funboat Marina</name><desc>description=Diesel
+name=Funboat Marina
+waterway=fuel</desc><link href="http://osm.org/browse/node/2371582221"/></wpt><wpt lat="48.5776367" lon="7.8032692"><name>node/2373193579</name><desc>description=Diesel und Benzin
+waterway=fuel</desc><link href="http://osm.org/browse/node/2373193579"/></wpt><wpt lat="48.5750458" lon="7.7774878"><name>node/2373193673</name><desc>description=Diesel und Benzin
+waterway=fuel</desc><link href="http://osm.org/browse/node/2373193673"/></wpt><wpt lat="50.4156761" lon="7.4806971"><name>MYC Neuwied</name><desc>description=Diesel und Benzin
+name=MYC Neuwied
+waterway=fuel</desc><link href="http://osm.org/browse/node/2378863283"/></wpt><wpt lat="50.6187453" lon="7.2076327"><name>node/2379908973</name><desc>amenity=fuel
+description=Nur Diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+wheelchair=yes</desc><link href="http://osm.org/browse/node/2379908973"/></wpt><wpt lat="47.2641017" lon="8.6534286"><name>Portier</name><desc>name=Portier
+waterway=fuel</desc><link href="http://osm.org/browse/node/2388979116"/></wpt><wpt lat="49.9711635" lon="9.0997641"><name>node/2397049605</name><desc>description=Bunkerboot
+waterway=fuel</desc><link href="http://osm.org/browse/node/2397049605"/></wpt><wpt lat="49.8080592" lon="9.8759884"><name>Bunkerstation Würzburg MSG</name><desc>name=Bunkerstation Würzburg MSG
+waterway=fuel</desc><link href="http://osm.org/browse/node/2399077730"/></wpt><wpt lat="49.7848697" lon="9.925587"><name>node/2399106007</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/2399106007"/></wpt><wpt lat="50.0287372" lon="10.5165689"><name>Bunkerboot</name><desc>name=Bunkerboot
+waterway=fuel</desc><link href="http://osm.org/browse/node/2400420952"/></wpt><wpt lat="49.0221129" lon="12.1316298"><name>Bunkerboot</name><desc>name=Bunkerboot
+waterway=fuel</desc><link href="http://osm.org/browse/node/2403591522"/></wpt><wpt lat="48.574196" lon="13.435015"><name>Bunkerboot</name><desc>name=Bunkerboot
+seamark:notice:addition=bottom_board
+seamark:notice:category=no_berthing
+seamark:notice:function=prohibition
+seamark:notice:information=Bunkerservice 1
+seamark:notice:orientation=0
+seamark:type=notice
+waterway=fuel</desc><link href="http://osm.org/browse/node/2406931787"/></wpt><wpt lat="41.2588604" lon="1.9252545"><name>node/2417156990</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2417156990"/></wpt><wpt lat="48.2188427" lon="16.4159925"><name>DDSG Bunkerstation</name><desc>fuel:diesel=yes
+name=DDSG Bunkerstation
+waterway=fuel</desc><link href="http://osm.org/browse/node/2418916657"/></wpt><wpt lat="44.9115433" lon="4.872199"><name>Tankstelle</name><desc>name=Tankstelle
+waterway=fuel</desc><link href="http://osm.org/browse/node/2454218659"/></wpt><wpt lat="43.6759194" lon="4.6158687"><name>Station Essence - Diesel Uniquement</name><desc>description=Tankstelle, nur Diesel Öffnungszeiten Mo bis Fr. 08:00 bis 17:00 Uhr ACHTUNG: NUR DIESEL
+name=Station Essence - Diesel Uniquement
+waterway=fuel</desc><link href="http://osm.org/browse/node/2455223195"/></wpt><wpt lat="52.3014159" lon="8.8996242"><name>Bunkerboote</name><desc>description=nur Diesel
+name=Bunkerboote
+waterway=fuel</desc><link href="http://osm.org/browse/node/2457748734"/></wpt><wpt lat="52.1594914" lon="10.3898015"><name>Bunkerboot Salzgitter bei Km 14,0</name><desc>description=nur Diesel
+name=Bunkerboot Salzgitter bei Km 14,0
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2459299022"/></wpt><wpt lat="43.245196" lon="5.3643518"><name>Fuel</name><desc>fuel:diesel=yes
+fuel:octane_91=yes
+name=Fuel
+payment:cash=yes
+payment:coins=yes
+payment:ep_mep=no
+payment:notes=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/2467186946"/></wpt><wpt lat="53.2106963" lon="13.2965338"><name>node/2470949076</name><desc>description=Nur Diesel
+waterway=fuel</desc><link href="http://osm.org/browse/node/2470949076"/></wpt><wpt lat="53.2098225" lon="13.3092367"><name>node/2470950986</name><desc>fuel:diesel=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/2470950986"/></wpt><wpt lat="52.9434726" lon="5.6468315"><name>Firezone</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+name=Firezone
+payment:cash=no
+phone=+31 513 433950
+ref=8103
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+website=firezone.nl</desc><link href="http://osm.org/browse/node/2491250133"/></wpt><wpt lat="52.5302047" lon="6.0739649"><name>Diesel Tankstelle</name><desc>description=Info beim Hafenmeister
+name=Diesel Tankstelle
+waterway=fuel</desc><link href="http://osm.org/browse/node/2515257941"/></wpt><wpt lat="45.7711133" lon="8.5778011"><name>node/2517773477</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/2517773477"/></wpt><wpt lat="44.7581195" lon="14.7624"><name>node/2687100834</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/2687100834"/></wpt><wpt lat="45.3355463" lon="14.3108852"><name>node/2687111841</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/2687111841"/></wpt><wpt lat="44.5570898" lon="14.881971"><name>node/2687121881</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/2687121881"/></wpt><wpt lat="41.2384201" lon="9.1957644"><name>Distributore Carburanti ENI</name><desc>amenity=fuel
+harbour=fuel
+name=Distributore Carburanti ENI
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2839861724"/></wpt><wpt lat="46.4701277" lon="6.8108779"><name>node/2859767833</name><desc>amenity=fuel
+waterway=fuel</desc><link href="http://osm.org/browse/node/2859767833"/></wpt><wpt lat="52.6629209" lon="12.2793055"><name>node/2874444423</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+phone=+49 3385 511062
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2874444423"/></wpt><wpt lat="41.2105621" lon="9.4044753"><name>ENI</name><desc>name=ENI
+operator=Eni
+seamark:name=Eni
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2881898714"/></wpt><wpt lat="53.1632285" lon="5.9319693"><name>Bunkerstation P. Pander</name><desc>description=Das Bunkerboot an der Fronejacht Brücke. Diesel; Super; Benzin; Gasflschen und Trinkwasser.
+fuel:GTL_diesel=yes
+fuel:diesel=yes
+name=Bunkerstation P. Pander
+payment:cash=yes
+phone=+31582552760
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2883353701"/></wpt><wpt lat="53.23854" lon="6.2171364"><name>Jacht &amp; Schiffsservice Stroobos</name><desc>description=Diesel, Winterlager &amp; Service mit einem kleinen Laden.
+name=Jacht &amp; Schiffsservice Stroobos
+waterway=fuel</desc><link href="http://osm.org/browse/node/2883687601"/></wpt><wpt lat="52.8509035" lon="7.0835378"><name>node/2924600186</name><desc>fuel:diesel=yes
+note=Dieselzapfsaeule. Super an der Strassentankstelle (Kanister)
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/2924600186"/></wpt><wpt lat="47.9985267" lon="11.3570407"><name>node/2939830713</name><desc>fuel:benzine=yes
+fuel:diesel=yes
+opening_hours=Apr 1-Sep 15: Mo-Su 09:00-12:00,13:00-17:00; Sep 16-Oct 31: Mo-Sa 09:00-12:00,13:00-17:00
+operator=Rambeck Bootsvertrieb und Yachthafen GmbH
+seamark:information=pertol, no diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://www.rambeck.de/yachthafen/service-center/tankstelle</desc><link href="http://osm.org/browse/node/2939830713"/></wpt><wpt lat="48.3476074" lon="16.2109124"><name>node/3008812879</name><desc>brand=Tankstelle für Sportboote Greifenstein
+fuel:diesel=yes
+fuel:octane_95=yes
+fuel:octane_98=no
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/3008812879"/></wpt><wpt lat="45.6845129" lon="13.385366"><name>Distributore Nautico</name><desc>brand=ömv
+name=Distributore Nautico
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/3022493614"/></wpt><wpt lat="48.3971873" lon="15.5694001"><name>node/3028122033</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/3028122033"/></wpt><wpt lat="52.9446671" lon="5.4030977"><name>node/3039979527</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/3039979527"/></wpt><wpt lat="51.4446076" lon="-3.1739006"><name>Marina Fuel Berth</name><desc>access=yes
+name=Marina Fuel Berth
+operator=Penarth Marina
+waterway=fuel</desc><link href="http://osm.org/browse/node/3222129038"/></wpt><wpt lat="44.6726921" lon="14.3972919"><name>node/3253541030</name><desc>brand=MOL
+operator=Tifon
+phone=+385 91 4641 094
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/3253541030"/></wpt><wpt lat="44.3018467" lon="9.2111814"><name>node/3257385215</name><desc>brand=Europam
+waterway=fuel</desc><link href="http://osm.org/browse/node/3257385215"/></wpt><wpt lat="47.7191478" lon="-3.3675982"><name>node/3362985294</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+source=survey
+waterway=fuel</desc><link href="http://osm.org/browse/node/3362985294"/></wpt><wpt lat="47.7191097" lon="-3.3679516"><name>node/3371413963</name><desc>harbour=fuel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+source=survey
+waterway=fuel</desc><link href="http://osm.org/browse/node/3371413963"/></wpt><wpt lat="44.1005803" lon="1.0904764"><name>node/3422160693</name><desc>amenity=fuel
+boat=yes
+fuel:diesel=yes
+motor_vehicle=no
+waterway=fuel</desc><link href="http://osm.org/browse/node/3422160693"/></wpt><wpt lat="46.2867235" lon="6.1701858"><name>node/3454632646</name><desc>fuel:diesel=no
+fuel:octane_95=yes
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/3454632646"/></wpt><wpt lat="53.4787366" lon="12.4371731"><name>Bootswert Thiele</name><desc>amenity=fuel
+name=Bootswert Thiele
+phone=+49 151 16546205
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/3470885867"/></wpt><wpt lat="52.8739576" lon="-1.3000596"><name>node/3472233518</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/3472233518"/></wpt><wpt lat="52.5135971" lon="13.421714"><name>Aral, 24h</name><desc>addr:city=Berlin
+addr:country=DE
+addr:housenumber=12
+addr:postcode=10179
+addr:street=Holzmarktstraße
+addr:suburb=Mitte
+contact:phone=+49 30 24720748
+name=Aral, 24h
+opening_hours=24/7
+waterway=fuel</desc><link href="http://osm.org/browse/node/3523381293"/></wpt><wpt lat="52.4543885" lon="13.555502"><name>Aral Tankstelle, 24h</name><desc>description=An der Wuhlheide 240 12459 Berlin Tel. 030-53790502
+name=Aral Tankstelle, 24h
+waterway=fuel</desc><link href="http://osm.org/browse/node/3523388893"/></wpt><wpt lat="52.4155109" lon="13.3028056"><name>Agip Tankstelle, 24h</name><desc>description=Ostpreussendamm 89 12207 Berlin tel. 030-75519703
+name=Agip Tankstelle, 24h
+waterway=fuel</desc><link href="http://osm.org/browse/node/3529732493"/></wpt><wpt lat="52.4399061" lon="13.3514608"><name>Aral Tankstelle, 24h</name><desc>description=Kaiser-Wilhelm-Straße 117 12247 Berlin tel. 030-76680128
+name=Aral Tankstelle, 24h
+waterway=fuel</desc><link href="http://osm.org/browse/node/3529774393"/></wpt><wpt lat="44.4174246" lon="8.8384069"><name>node/3544802150</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/3544802150"/></wpt><wpt lat="51.3915591" lon="-0.4286255"><name>Diesel Fuel Station</name><desc>name=Diesel Fuel Station
+waterway=fuel</desc><link href="http://osm.org/browse/node/3605740237"/></wpt><wpt lat="51.3916317" lon="-0.4285207"><name>Petrol Fuel Station</name><desc>name=Petrol Fuel Station
+waterway=fuel</desc><link href="http://osm.org/browse/node/3605740246"/></wpt><wpt lat="50.7121183" lon="-1.9929014"><name>CPL Petroleum</name><desc>alt_name=Certas Energy
+brand=CPL Petroleum
+name=CPL Petroleum
+waterway=fuel</desc><link href="http://osm.org/browse/node/3606176376"/></wpt><wpt lat="47.0465228" lon="7.0987512"><name>node/3640628346</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+operator=Faul Erlach AG
+waterway=fuel</desc><link href="http://osm.org/browse/node/3640628346"/></wpt><wpt lat="47.2698405" lon="8.5878984"><name>node/3683533962</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/3683533962"/></wpt><wpt lat="53.0272892" lon="5.6643212"><name>node/3686643247</name><desc>opening_hours=Tu off
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/3686643247"/></wpt><wpt lat="50.4554523" lon="4.8640454"><name>node/3703502940</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/3703502940"/></wpt><wpt lat="45.6794958" lon="13.3966806"><name>node/3708654906</name><desc>fuel:diesel=no
+opening_hours=07:30-12:30,15:00-19:00; Mar Su[-1]-Oct Su[-1]: 07:30-12:30,15:00-19:30
+operator=Drusian
+waterway=fuel</desc><link href="http://osm.org/browse/node/3708654906"/></wpt><wpt lat="45.6979058" lon="13.1432953"><name>node/3708669100</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/3708669100"/></wpt><wpt lat="44.0527049" lon="15.2975302"><name>Tanken</name><desc>name=Tanken
+waterway=fuel</desc><link href="http://osm.org/browse/node/3730376725"/></wpt><wpt lat="43.5153634" lon="16.2368437"><name>node/3743886747</name><desc>amenity=fuel
+fuel:diesel=yes
+fuel:octane_95=yes
+payment:american_express=yes
+payment:cash=yes
+payment:diners_club=yes
+payment:discover_card=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:visa=yes
+payment:visa_electron=yes
+phone=+385 91 4971 471
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+shop=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/3743886747"/></wpt><wpt lat="45.961054" lon="8.6794806"><name>node/3751418838</name><desc>amenity=fuel
+brand=Total Erg
+note=this is a fuel station for both motor vehicles and boats
+waterway=fuel</desc><link href="http://osm.org/browse/node/3751418838"/></wpt><wpt lat="50.2376241" lon="-3.7604302"><name>Fuel Barge</name><desc>name=Fuel Barge
+waterway=fuel</desc><link href="http://osm.org/browse/node/3771155470"/></wpt><wpt lat="46.3788203" lon="6.2408925"><name>node/3778340373</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/3778340373"/></wpt><wpt lat="43.3759599" lon="-1.792777"><name>node/3818715941</name><desc>fuel:diesel=yes
+opening_hours=24/7
+seamark:information=diesel
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/3818715941"/></wpt><wpt lat="43.3760777" lon="-1.7927896"><name>node/3818715943</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/3818715943"/></wpt><wpt lat="46.3866859" lon="6.8529541"><name>node/3834189364</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/3834189364"/></wpt><wpt lat="52.1500827" lon="4.5345192"><name>node/3857063321</name><desc>fuel:diesel=yes
+source=Bing
+waterway=fuel</desc><link href="http://osm.org/browse/node/3857063321"/></wpt><wpt lat="50.365704" lon="-4.1322414"><name>node/3875899064</name><desc>operator=Queen Anne's Battery Marina
+waterway=fuel</desc><link href="http://osm.org/browse/node/3875899064"/></wpt><wpt lat="48.8055803" lon="-3.4388969"><name>node/3885832177</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/3885832177"/></wpt><wpt lat="51.4473449" lon="-3.1762116"><name>Yacht Club Fuel Berth</name><desc>access=customers
+name=Yacht Club Fuel Berth
+operator=Cardiff Bay Yacht Club
+waterway=fuel</desc><link href="http://osm.org/browse/node/3916450133"/></wpt><wpt lat="45.263702" lon="12.3004836"><name>Marine Fuel</name><desc>name=Marine Fuel
+waterway=fuel</desc><link href="http://osm.org/browse/node/4028557540"/></wpt><wpt lat="45.5191247" lon="12.3843236"><name>node/4028583455</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4028583455"/></wpt><wpt lat="47.74835" lon="9.1336591"><name>SEE-TANKSTELLE</name><desc>name=SEE-TANKSTELLE
+waterway=fuel</desc><link href="http://osm.org/browse/node/4043223177"/></wpt><wpt lat="45.7286158" lon="8.6143888"><name>node/4067832593</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4067832593"/></wpt><wpt lat="46.9245026" lon="6.9545732"><name>node/4073763893</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4073763893"/></wpt><wpt lat="53.0958624" lon="5.8454287"><name>Fieten Olie</name><desc>fuel:diesel=yes
+fuel:octane_95=yes
+name=Fieten Olie
+operator=WSB Anja
+seamark:small_craft_facility:category=fuel_station
+waterway=fuel</desc><link href="http://osm.org/browse/node/4075335813"/></wpt><wpt lat="47.6672113" lon="9.1749226"><name>node/4083655502</name><desc>fuel:diesel=yes
+fuel:lpg=yes
+operator=MIZU
+waterway=fuel</desc><link href="http://osm.org/browse/node/4083655502"/></wpt><wpt lat="52.0360856" lon="6.1351457"><name>JH Dorado Beach</name><desc>description=Benzin, Diesel, pump-out, payment=cash/credit card/master card
+name=JH Dorado Beach
+phone=+31 (0)575-451529
+seamark:name=Tankstation: JH Dorado Beach
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4086292432"/></wpt><wpt lat="52.5952505" lon="6.0866886"><name>node/4087556125</name><desc>description=Benzin, Diesel, payment=cash
+seamark:information=Tanken
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4087556125"/></wpt><wpt lat="52.6437274" lon="6.0844248"><name>Tankstation: De Kranewaard</name><desc>description=Benzin, Diesel, pump-out, payment=cash/credit card/mastercard
+name=Tankstation: De Kranewaard
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4087559613"/></wpt><wpt lat="52.7210027" lon="6.0774377"><name>Tankstation: Giethorn</name><desc>description=Benzin, Diesel, Wasser, payment=cash/mastercard
+name=Tankstation: Giethorn
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4087579503"/></wpt><wpt lat="52.8524378" lon="5.6848843"><name>Tankstation: Tacozijl</name><desc>description=Benzin, Diesel, payment=cash/credit card/master card
+name=Tankstation: Tacozijl
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4087582610"/></wpt><wpt lat="52.847231" lon="5.697307"><name>Tankstation: Gemeinde Lemmer</name><desc>description=Benzin, Diesel, pump-out, Wasser, payment=cash/credit card/master card
+name=Tankstation: Gemeinde Lemmer
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4087588436"/></wpt><wpt lat="52.708424" lon="5.8147502"><name>Tankstation: Markenesse</name><desc>description=Benzin, Diesel, Shop, payment=cash/credit card/mastercard - nur mit Canister tanken mögl.
+name=Tankstation: Markenesse
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4087603440"/></wpt><wpt lat="52.9447655" lon="5.6333993"><name>Tankstation</name><desc>description=Benzin, Diesel
+name=Tankstation
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4094905476"/></wpt><wpt lat="52.6122783" lon="5.747145"><name>Tankstation</name><desc>description=Benzin, Diesel, payment=mastercard
+name=Tankstation
+seamark:name=Tanken: Marina Schokkerstrand
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4095292854"/></wpt><wpt lat="52.8179992" lon="5.7418683"><name>Tankstation: Lemstervaart (bei Lemmer)</name><desc>description=Benzin, Diesel, Shop, payment=cash/credit card/mastercard - tanken nur mit Canister mögl.
+name=Tankstation: Lemstervaart (bei Lemmer)
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4095954269"/></wpt><wpt lat="52.8739678" lon="5.8210664"><name>Tankstation: De Merenpoort BV</name><desc>description=Benzin, Diesel, payment=cash/credit card/mastercard
+name=Tankstation: De Merenpoort BV
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4096326858"/></wpt><wpt lat="52.8730235" lon="5.8236249"><name>Tankstation: an de Turfkade</name><desc>description=Benzin, Diesel
+name=Tankstation: an de Turfkade
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4098869063"/></wpt><wpt lat="51.977218" lon="5.9003073"><name>Tankstation: Arnhem</name><desc>description=Diesel
+name=Tankstation: Arnhem
+phone=+31 (0)26-3216035
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4115694895"/></wpt><wpt lat="51.9089921" lon="4.5630541"><name>Bunkerstation "Janna"</name><desc>name=Bunkerstation "Janna"
+operator=Oliehandel J. Terlouw b.v.
+waterway=fuel
+website=http://www.oliehandel-terlouw.nl</desc><link href="http://osm.org/browse/node/4148725900"/></wpt><wpt lat="54.4030828" lon="10.2183225"><name>Bunkerstation Laboe</name><desc>ft_symbol=112
+fuel:diesel=yes
+name=Bunkerstation Laboe
+phone=+49 4343 6437
+seamark:information=diesel;biodiesel
+seamark:type=small_craft_facility
+waterway=fuel
+website=http://bunkerstation-laboe.de</desc><link href="http://osm.org/browse/node/4214185711"/></wpt><wpt lat="47.3465621" lon="-3.1522094"><name>node/4232498164</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4232498164"/></wpt><wpt lat="41.8464675" lon="3.1371934"><name>node/4269103194</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4269103194"/></wpt><wpt lat="41.8446933" lon="3.125398"><name>node/4269103195</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4269103195"/></wpt><wpt lat="41.8933832" lon="3.1965875"><name>node/4269103196</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4269103196"/></wpt><wpt lat="43.5575748" lon="4.0797204"><name>La Station du Port</name><desc>fuel:diesel=yes
+fuel:octane_95=no
+fuel:octane_98=yes
+name=La Station du Port
+waterway=fuel</desc><link href="http://osm.org/browse/node/4296853786"/></wpt><wpt lat="54.178317" lon="15.5594456"><name>STW</name><desc>brand=STW
+fuel:diesel=yes
+fuel:octane_95=yes
+name=STW
+opening_hours=08:00-12:00
+operator=Spółdzielnia Transportu Wiejskiego
+waterway=fuel</desc><link href="http://osm.org/browse/node/4324721578"/></wpt><wpt lat="45.2227739" lon="12.2777933"><name>node/4337031861</name><desc>fuel:diesel=yes
+fuel:octane_91=yes
+note=self service
+opening_hours=24/7
+waterway=fuel</desc><link href="http://osm.org/browse/node/4337031861"/></wpt><wpt lat="49.4183512" lon="2.8186744"><name>Max Guerdin et Ses Fils</name><desc>name=Max Guerdin et Ses Fils
+waterway=fuel</desc><link href="http://osm.org/browse/node/4337237190"/></wpt><wpt lat="45.2203241" lon="12.2762708"><name>node/4337445413</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4337445413"/></wpt><wpt lat="43.4157661" lon="6.7743453"><name>node/4338867715</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4338867715"/></wpt><wpt lat="52.3614232" lon="4.9631864"><name>node/4494375694</name><desc>description=Benzin, Diesel
+seamark:name=Tankstation: WSV Het Nieuwe Diep
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/4494375694"/></wpt><wpt lat="52.2798935" lon="6.4064974"><name>Metalin Gasoil</name><desc>name=Metalin Gasoil
+waterway=fuel</desc><link href="http://osm.org/browse/node/4520368842"/></wpt><wpt lat="45.9822917" lon="9.2231753"><name>Agip</name><desc>name=Agip
+operator=Agip
+waterway=fuel</desc><link href="http://osm.org/browse/node/4613176414"/></wpt><wpt lat="52.1817247" lon="4.6327045"><name>node/4690202048</name><desc>fuel:benzine=yes
+fuel:diesel=yes
+waterway=fuel</desc><link href="http://osm.org/browse/node/4690202048"/></wpt><wpt lat="50.6071322" lon="-2.4513662"><name>node/4696249136</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4696249136"/></wpt><wpt lat="47.8010966" lon="9.038373"><name>Schiffs Tankstelle Bodman</name><desc>amenity=fuel
+name=Schiffs Tankstelle Bodman
+waterway=fuel</desc><link href="http://osm.org/browse/node/4715410653"/></wpt><wpt lat="44.0527859" lon="9.8373862"><name>Agip</name><desc>name=Agip
+waterway=fuel</desc><link href="http://osm.org/browse/node/4732564180"/></wpt><wpt lat="51.910558" lon="4.4969237"><name>node/4790673830</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4790673830"/></wpt><wpt lat="42.8860162" lon="10.7811163"><name>node/4795951329</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4795951329"/></wpt><wpt lat="47.2250959" lon="-1.5537031"><name>node/4850892125</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4850892125"/></wpt><wpt lat="53.0681061" lon="10.6021392"><name>Wasserfahrzeug Stromtankstelle</name><desc>amenity=charging_station
+amperage=16
+authentication:membership_card=yes
+authentication:nfc=yes
+capacity=1
+name=Wasserfahrzeug Stromtankstelle
+payment:account_cards=yes
+socket:cee_blue=1
+socket:cee_red_16a=1
+voltage=400
+waterway=fuel</desc><link href="http://osm.org/browse/node/4879891162"/></wpt><wpt lat="53.0696799" lon="10.6024289"><name>Wasserfahrzeug Stromtankstelle</name><desc>amenity=charging_station
+amperage=16
+authentication:membership_card=yes
+authentication:nfc=yes
+capacity=1
+name=Wasserfahrzeug Stromtankstelle
+payment:account_cards=yes
+socket:cee_blue=1
+socket:cee_red_16a=1
+voltage=400
+waterway=fuel</desc><link href="http://osm.org/browse/node/4879891163"/></wpt><wpt lat="53.0708966" lon="10.6026153"><name>Wasserfahrzeug Stromtankstelle</name><desc>amenity=charging_station
+amperage=16
+authentication:membership_card=yes
+authentication:nfc=yes
+capacity=1
+name=Wasserfahrzeug Stromtankstelle
+payment:account_cards=yes
+socket:cee_blue=1
+socket:cee_red_16a=1
+voltage=400
+waterway=fuel</desc><link href="http://osm.org/browse/node/4879891164"/></wpt><wpt lat="53.0722664" lon="10.6027481"><name>Wasserfahrzeug Stromtankstelle</name><desc>amenity=charging_station
+amperage=16
+authentication:membership_card=yes
+authentication:nfc=yes
+capacity=1
+name=Wasserfahrzeug Stromtankstelle
+payment:account_cards=yes
+socket:cee_blue=1
+socket:cee_red_16a=1
+voltage=400
+waterway=fuel</desc><link href="http://osm.org/browse/node/4879891165"/></wpt><wpt lat="52.8868304" lon="5.358784"><name>node/4934218118</name><desc>seamark:bunker_station:category=diesel
+seamark:information=diesel just for professional use (red coloured fuel)
+seamark:name=Onderneming
+seamark:type=bunker_station
+waterway=fuel
+website=http://mdegroot-olie.com/brandstoffen</desc><link href="http://osm.org/browse/node/4934218118"/></wpt><wpt lat="52.9039849" lon="5.4694619"><name>node/4958547636</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4958547636"/></wpt><wpt lat="51.357928" lon="-2.3143874"><name>node/4966995252</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4966995252"/></wpt><wpt lat="53.0259012" lon="5.6822566"><name>node/4973602943</name><desc>seamark:small_craft_facility:category=fuel_station
+waterway=fuel</desc><link href="http://osm.org/browse/node/4973602943"/></wpt><wpt lat="43.2728535" lon="3.5087805"><name>node/4976180723</name><desc>source=survey
+waterway=fuel</desc><link href="http://osm.org/browse/node/4976180723"/></wpt><wpt lat="52.3976969" lon="-1.2952386"><name>node/4980502834</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4980502834"/></wpt><wpt lat="52.3553791" lon="-1.2014407"><name>node/4985128212</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4985128212"/></wpt><wpt lat="43.421603" lon="3.6063676"><name>node/4992154686</name><desc>source=survey
+waterway=fuel</desc><link href="http://osm.org/browse/node/4992154686"/></wpt><wpt lat="53.0209336" lon="5.6998254"><name>node/4998399605</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/4998399605"/></wpt><wpt lat="41.1348705" lon="9.5366865"><name>node/5043395069</name><desc>brand=Eni
+fuel:diesel=yes
+fuel:octane_95=yes
+opening_hours=May-Sep 7:00-12:30, 15:30-19:30
+seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel
+website=https://stationfinder.eni.com/iveportal/stations/stationfinder.do?locale=it_IT&amp;m=3&amp;id=IT7997</desc><link href="http://osm.org/browse/node/5043395069"/></wpt><wpt lat="41.1101347" lon="9.4440412"><name>node/5064509150</name><desc>seamark:small_craft_facility:category=fuel_station
+seamark:type=small_craft_facility
+waterway=fuel</desc><link href="http://osm.org/browse/node/5064509150"/></wpt><wpt lat="52.7718539" lon="5.109735"><name>Tankstation Kool &amp; Co.</name><desc>addr:city=Medemblik
+addr:housenumber=24
+addr:postcode=1671AB
+addr:street=Oosterhaven
+email=info@koolmedemblik.nl
+fuel:diesel=yes
+fuel:octane_98=yes
+name=Tankstation Kool &amp; Co.
+opening_hours=Ma-Vr 08:00-18:00, Za 08:00-17:00, Zomerseizoen Zo 10:00-12:00
+phone=+31 227 541265
+waterway=fuel
+website=http://www.koolmedemblik.nl</desc><link href="http://osm.org/browse/node/5157730035"/></wpt><wpt lat="45.5257459" lon="13.5673188"><name>node/5194800375</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/5194800375"/></wpt><wpt lat="41.6811952" lon="12.8763805"><name>Eni</name><desc>name=Eni
+operator=Eni
+waterway=fuel</desc><link href="http://osm.org/browse/node/5202394694"/></wpt><wpt lat="41.6926341" lon="12.8645923"><name>IP</name><desc>name=IP
+operator=IP
+waterway=fuel</desc><link href="http://osm.org/browse/node/5202394718"/></wpt><wpt lat="45.6709324" lon="10.6534215"><name>node/5233080520</name><desc>addr:city=Bogliaco
+fuel:diesel=yes
+fuel:octane_95=yes
+seamark:small_craft_facility:category=fuel_station
+waterway=fuel</desc><link href="http://osm.org/browse/node/5233080520"/></wpt><wpt lat="45.6709324" lon="10.6534215"><name>node/5233080821</name><desc>addr:city=Bogliaco
+fuel:diesel=yes
+fuel:octane_95=yes
+seamark:small_craft_facility:category=fuel_station
+waterway=fuel</desc><link href="http://osm.org/browse/node/5233080821"/></wpt><wpt lat="45.7599152" lon="13.1657082"><name>node/5360982164</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/5360982164"/></wpt><wpt lat="47.1976355" lon="7.523805"><name>Boottankstelle</name><desc>name=Boottankstelle
+waterway=fuel</desc><link href="http://osm.org/browse/node/5527985994"/></wpt><wpt lat="45.693406" lon="5.8887888"><name>node/5651642637</name><desc>waterway=fuel</desc><link href="http://osm.org/browse/node/5651642637"/></wpt><wpt lat="44.5262864" lon="6.3272041"><name>node/5694403147</name><desc>fuel:octane_98=yes
+harbour:fuel_station=yes
+harbour:pump-out=yes
+harbour:refuse_bin=yes
+opening_hours=24/7
+payment:mastercard=yes
+payment:visa=yes
+seamark:harbour:category=marina
+seamark:type=harbour
+waterway=fuel
+website=http://www.smadesep.com/</desc><link href="http://osm.org/browse/node/5694403147"/></wpt><wpt lat="44.5279137" lon="6.4005727"><name>node/5694425460</name><desc>ele=780
+fuel:octane_95=yes
+harbour:fuel_station=yes
+opening_hours=24/7
+payment:mastercard=yes
+payment:visa=yes
+seamark:harbour:category=marina
+seamark:type=harbour
+waterway=fuel
+website=http://www.smadesep.com/</desc><link href="http://osm.org/browse/node/5694425460"/></wpt><wpt lat="44.4674364" lon="6.3255102"><name>node/5694425472</name><desc>ele=780
+fuel:octane_95=yes
+harbour:fuel_station=yes
+opening_hours=24/7
+payment:mastercard=yes
+payment:visa=yes
+seamark:type=harbour
+waterway=fuel
+website=http://www.smadesep.com/</desc><link href="http://osm.org/browse/node/5694425472"/></wpt></gpx>

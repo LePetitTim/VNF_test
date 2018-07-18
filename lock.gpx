@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-ide"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2018-07-13T13:04:02Z</time></metadata><wpt lat="52.7317624" lon="-1.7568703"><name>node/12943100</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/12943100"/></wpt><wpt lat="52.7363966" lon="-1.747616"><name>node/14417157</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/14417157"/></wpt><wpt lat="52.6397442" lon="-3.1592193"><name>Belan Lower Lock gate</name><desc>lock=yes
+name=Belan Lower Lock gate</desc><link href="http://osm.org/browse/node/20956662"/></wpt><wpt lat="52.2871375" lon="-1.1944496"><name>node/27415989</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/27415989"/></wpt><wpt lat="52.8385291" lon="13.7934355"><name>node/29363984</name><desc>lock=yes
+waterway:lock:height=2m
+waterway:lock:length=40m</desc><link href="http://osm.org/browse/node/29363984"/></wpt><wpt lat="52.6027912" lon="-2.132001"><name>node/29555774</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/29555774"/></wpt><wpt lat="52.8061848" lon="-1.6542626"><name>node/30772663</name><desc>lock=yes
+note=former lock
+waterway=dry_dock</desc><link href="http://osm.org/browse/node/30772663"/></wpt><wpt lat="50.8561341" lon="5.6943774"><name>node/31889337</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/31889337"/></wpt><wpt lat="50.855877" lon="5.6936246"><name>node/31889343</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/31889343"/></wpt><wpt lat="53.6770289" lon="-0.5250289"><name>node/94081906</name><desc>lock=yes
+seamark:name=South Ferriby Lock
+seamark:type=lock_basin</desc><link href="http://osm.org/browse/node/94081906"/></wpt><wpt lat="52.8065963" lon="-1.2464222"><name>Zouch Flood Lock</name><desc>lock=yes
+lock_name=Zouch Flood Lock
+name=Zouch Flood Lock
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/99357965"/></wpt><wpt lat="53.5438866" lon="10.0109987"><name>Hammerbrookschleuse</name><desc>architect=William Lindley
+heritage=yes
+heritage:ref=0600
+historic=technical_monument
+image=http://commons.wikimedia.org/wiki/File:Hammerbrooker_Schleuse.jpg
+lock=yes
+name=Hammerbrookschleuse
+year_of_construction=1847</desc><link href="http://osm.org/browse/node/220391801"/></wpt><wpt lat="53.0108922" lon="-2.689002"><name>Quoisley Locl</name><desc>lock=yes
+name=Quoisley Locl
+waterway=lock</desc><link href="http://osm.org/browse/node/246495848"/></wpt><wpt lat="51.6065441" lon="-1.4113674"><name>Smallmarsh Lock</name><desc>lock=yes
+lock_name=Smallmarsh Lock
+name=Smallmarsh Lock
+waterway=lock</desc><link href="http://osm.org/browse/node/246887528"/></wpt><wpt lat="51.6049359" lon="-1.4164421"><name>Grovecommon Lock</name><desc>lock=yes
+lock_name=Grove Common Lock
+name=Grovecommon Lock
+waterway=lock</desc><link href="http://osm.org/browse/node/246887529"/></wpt><wpt lat="52.4946929" lon="-1.8823542"><name>node/253697582</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/253697582"/></wpt><wpt lat="51.6890219" lon="-3.7392006"><name>node/257093546</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/257093546"/></wpt><wpt lat="51.6880439" lon="-3.7398297"><name>node/257093547</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/257093547"/></wpt><wpt lat="51.7146319" lon="-3.6992351"><name>node/257096152</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/257096152"/></wpt><wpt lat="51.7338116" lon="-3.6543478"><name>node/257096174</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/257096174"/></wpt><wpt lat="48.21837" lon="3.2656905"><name>node/260916885</name><desc>loc_name=St-Martin
+loc_ref=10
+lock=yes</desc><link href="http://osm.org/browse/node/260916885"/></wpt><wpt lat="48.2573262" lon="3.238889"><name>node/260916908</name><desc>loc_name=Villeperrot
+loc_ref=11
+lock=yes</desc><link href="http://osm.org/browse/node/260916908"/></wpt><wpt lat="48.3000424" lon="3.2107618"><name>node/260916949</name><desc>loc_name=Champfleury
+loc_ref=12
+lock=yes</desc><link href="http://osm.org/browse/node/260916949"/></wpt><wpt lat="52.2651366" lon="-2.1177365"><name>node/267046911</name><desc>lock=yes
+source=bing
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/267046911"/></wpt><wpt lat="52.2655063" lon="-2.1206169"><name>node/267046953</name><desc>lock=yes
+source=bing
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/267046953"/></wpt><wpt lat="44.9087353" lon="-0.5942185"><name>Écluse sud de l'Île</name><desc>lock=yes
+name=Écluse sud de l'Île</desc><link href="http://osm.org/browse/node/280936805"/></wpt><wpt lat="44.9154448" lon="-0.5525863"><name>Écluse de Grattequina</name><desc>lock=yes
+name=Écluse de Grattequina</desc><link href="http://osm.org/browse/node/280937257"/></wpt><wpt lat="51.3822891" lon="-1.5943765"><name>node/281895675</name><desc>lock=yes
+lock_name=Burnt Mill Lock
+lock_ref=65
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/281895675"/></wpt><wpt lat="52.2674387" lon="10.4014785"><name>Schleuse Wedlenstedt</name><desc>lock=yes
+name=Schleuse Wedlenstedt
+opening_hours=Mo-Sa 06:00-22:00; Su 08:00-16:00
+passage_time=30
+phone=+49 531866032350
+vhf=79
+waterway=lock</desc><link href="http://osm.org/browse/node/294151102"/></wpt><wpt lat="47.9502292" lon="-2.5452499"><name>node/301337048</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/301337048"/></wpt><wpt lat="50.8032519" lon="-0.8128532"><name>node/317480968</name><desc>lock=yes
+waterway=weir</desc><link href="http://osm.org/browse/node/317480968"/></wpt><wpt lat="44.9018612" lon="-0.6407958"><name>Vanne Aval</name><desc>lock=yes
+name=Vanne Aval</desc><link href="http://osm.org/browse/node/330950261"/></wpt><wpt lat="53.3412226" lon="-0.3568586"><name>Harlam Hill Lock</name><desc>lock=yes
+name=Harlam Hill Lock</desc><link href="http://osm.org/browse/node/334233345"/></wpt><wpt lat="52.0044162" lon="9.2230585"><name>Bauwagen</name><desc>building=yes
+lock=yes
+name=Bauwagen</desc><link href="http://osm.org/browse/node/346278431"/></wpt><wpt lat="50.3545841" lon="11.6901015"><name>node/364421430</name><desc>lock=yes
+railway=level_crossing</desc><link href="http://osm.org/browse/node/364421430"/></wpt><wpt lat="45.160154" lon="0.2778724"><name>node/374182052</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/374182052"/></wpt><wpt lat="54.2745999" lon="12.9936092"><name>node/388203569</name><desc>lock=yes
+note=sehr kleine Schleuse
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/388203569"/></wpt><wpt lat="51.8381408" lon="10.5319548"><name>node/399359628</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/399359628"/></wpt><wpt lat="51.3864571" lon="-2.1290077"><name>node/410317321</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/410317321"/></wpt><wpt lat="51.4954261" lon="-2.0280526"><name>node/410318478</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/410318478"/></wpt><wpt lat="51.532633" lon="-1.9067837"><name>node/410318881</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/410318881"/></wpt><wpt lat="51.5345274" lon="-1.8728993"><name>node/410318900</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/410318900"/></wpt><wpt lat="51.6010293" lon="-1.4263277"><name>Lime Kiln Lock</name><desc>lock=yes
+lock_name=Little Kiln Lock
+name=Lime Kiln Lock
+waterway=lock</desc><link href="http://osm.org/browse/node/414259278"/></wpt><wpt lat="51.5996291" lon="-1.4306755"><name>Grove Top Lock</name><desc>lock=yes
+lock_name=Grove Top Lock
+name=Grove Top Lock
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/415492555"/></wpt><wpt lat="52.6579971" lon="-3.1456999"><name>node/417647653</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/417647653"/></wpt><wpt lat="51.4054959" lon="-2.1070362"><name>Lacock Lock</name><desc>lock=yes
+name=Lacock Lock</desc><link href="http://osm.org/browse/node/418174419"/></wpt><wpt lat="51.4016397" lon="-2.1086006"><name>Queenfield Lock</name><desc>lock=yes
+name=Queenfield Lock</desc><link href="http://osm.org/browse/node/418174735"/></wpt><wpt lat="51.4412214" lon="-2.0291407"><name>Conigre Top Lock</name><desc>lock=yes
+name=Conigre Top Lock</desc><link href="http://osm.org/browse/node/418177034"/></wpt><wpt lat="51.5068553" lon="-2.0310456"><name>node/418188983</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/418188983"/></wpt><wpt lat="51.4414586" lon="-2.0296163"><name>Conigre Bottom Lock</name><desc>lock=yes
+name=Conigre Bottom Lock</desc><link href="http://osm.org/browse/node/418199726"/></wpt><wpt lat="52.2407149" lon="14.554911"><name>Schleuse Weißenberg</name><desc>description=Friedrich-Wilhelm-Kanal, Schleusen außer Betrieb, nicht schiffbar, für Wasserwandern ungeeignet
+disused=yes
+lock=yes
+name=Schleuse Weißenberg</desc><link href="http://osm.org/browse/node/431069808"/></wpt><wpt lat="52.245276" lon="14.4766498"><name>Schleuse Schlaubehammer</name><desc>description=Friedrich-Wilhelm-Kanal, Schleusen außer Betrieb, Umtragen erforderlich
+disused=yes
+lock=yes
+name=Schleuse Schlaubehammer</desc><link href="http://osm.org/browse/node/431069827"/></wpt><wpt lat="52.2447259" lon="14.568536"><name>Schleuse Finkenheerd</name><desc>description=Friedrich-Wilhelm-Kanal, Schleusen außer Betrieb, nicht schiffbar, für Wasserwandern ungeeignet
+disused=yes
+ft_symbol=4
+lock=yes
+name=Schleuse Finkenheerd</desc><link href="http://osm.org/browse/node/431069846"/></wpt><wpt lat="52.2370057" lon="14.5318359"><name>Schleuse Groß Lindow</name><desc>description=Friedrich-Wilhelm-Kanal, Schleusen außer Betrieb, Umtragen erforderlich 31-DEZ-08 13:20:59
+disused=yes
+lock=yes
+name=Schleuse Groß Lindow</desc><link href="http://osm.org/browse/node/431069860"/></wpt><wpt lat="45.3874822" lon="11.0660749"><name>node/470221512</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/470221512"/></wpt><wpt lat="51.428779" lon="7.1130989"><name>node/472613567</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/472613567"/></wpt><wpt lat="49.2122553" lon="11.4535384"><name>Schleuse 31</name><desc>lock=yes
+name=Schleuse 31
+tourism=attraction</desc><link href="http://osm.org/browse/node/475990580"/></wpt><wpt lat="52.6390145" lon="-3.1606278"><name>node/479373662</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/479373662"/></wpt><wpt lat="52.9148473" lon="-0.7521018"><name>Lock</name><desc>lock=yes
+name=Lock
+note=No name visible
+waterway=lock</desc><link href="http://osm.org/browse/node/479503908"/></wpt><wpt lat="52.9219424" lon="-0.7610025"><name>Muston Lock no 12</name><desc>lock=yes
+name=Muston Lock no 12
+waterway=former_lock_gate</desc><link href="http://osm.org/browse/node/479524150"/></wpt><wpt lat="52.9198932" lon="-0.755226"><name>Stenwith Bottom Lock no 13</name><desc>lock=yes
+name=Stenwith Bottom Lock no 13
+waterway=lock</desc><link href="http://osm.org/browse/node/479529634"/></wpt><wpt lat="52.9186305" lon="-0.7539901"><name>Stenwith Top Lock no 14</name><desc>lock=yes
+name=Stenwith Top Lock no 14
+waterway=lock</desc><link href="http://osm.org/browse/node/479529636"/></wpt><wpt lat="52.9081097" lon="-0.7486952"><name>node/479529655</name><desc>lock=yes
+note=No name visible</desc><link href="http://osm.org/browse/node/479529655"/></wpt><wpt lat="52.9069003" lon="-0.7478454"><name>Lock</name><desc>lock=yes
+name=Lock
+note=No name visible
+waterway=lock</desc><link href="http://osm.org/browse/node/479529658"/></wpt><wpt lat="52.2584828" lon="14.5821712"><name>Schleuse Brieskow</name><desc>description=Wasserwandern nicht möglich, Schleuse gesperrt (Nutzung Fischerei), stromab Deichbau zur Oder
+disused=yes
+ft_link=www.freietonne.de?edit=6040
+ft_symbol=4
+lock=yes
+name=Schleuse Brieskow</desc><link href="http://osm.org/browse/node/487185847"/></wpt><wpt lat="45.6067334" lon="12.5535204"><name>node/507736888</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/507736888"/></wpt><wpt lat="52.2957246" lon="-1.632545"><name>35</name><desc>lock=yes
+name=35
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/544208403"/></wpt><wpt lat="48.3761709" lon="2.9153466"><name>node/559501762</name><desc>lock=yes
+lock_name=Varenne
+lock_ref=1</desc><link href="http://osm.org/browse/node/559501762"/></wpt><wpt lat="48.3676236" lon="2.9797251"><name>node/559509779</name><desc>lock=yes
+lock_name=Cannes
+lock_ref=17</desc><link href="http://osm.org/browse/node/559509779"/></wpt><wpt lat="48.3652814" lon="3.0136355"><name>node/559701218</name><desc>loc_name=Labrosse
+loc_ref=16
+lock=yes</desc><link href="http://osm.org/browse/node/559701218"/></wpt><wpt lat="48.3578417" lon="3.0612206"><name>node/559710830</name><desc>loc_name=Barbey
+loc_ref=15
+lock=yes</desc><link href="http://osm.org/browse/node/559710830"/></wpt><wpt lat="48.1592434" lon="3.2963738"><name>node/560555580</name><desc>loc_name=Rosoy
+loc_ref=8
+lock=yes</desc><link href="http://osm.org/browse/node/560555580"/></wpt><wpt lat="48.1280292" lon="3.2880285"><name>node/560885867</name><desc>loc_name=Etigny
+loc_ref=7
+lock=yes</desc><link href="http://osm.org/browse/node/560885867"/></wpt><wpt lat="47.7940379" lon="3.5822845"><name>node/565595486</name><desc>loc_name=Batardeau
+lock=yes
+lock_ref=81-S
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/565595486"/></wpt><wpt lat="47.2780944" lon="3.6560837"><name>node/572179070</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/572179070"/></wpt><wpt lat="47.2445672" lon="3.6585411"><name>node/572420849</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/572420849"/></wpt><wpt lat="51.8552887" lon="-0.6456274"><name>Ivinghoe No.33</name><desc>lock=yes
+name=Ivinghoe No.33
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/577262875"/></wpt><wpt lat="51.6625503" lon="-1.887579"><name>node/589059277</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/589059277"/></wpt><wpt lat="52.8725629" lon="-1.2922065"><name>Sawley Locks</name><desc>alt_name=Sawley Lock
+lock=yes
+name=Sawley Locks
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/613611787"/></wpt><wpt lat="52.8727175" lon="-1.2921224"><name>node/613611788</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/613611788"/></wpt><wpt lat="49.203803" lon="11.4530485"><name>Schleuse 30</name><desc>lock=yes
+name=Schleuse 30
+tourism=attraction</desc><link href="http://osm.org/browse/node/616499961"/></wpt><wpt lat="49.1860879" lon="11.4523818"><name>Schleuse 29</name><desc>lock=yes
+name=Schleuse 29
+tourism=attraction</desc><link href="http://osm.org/browse/node/616500006"/></wpt><wpt lat="49.1825061" lon="11.4527175"><name>Schleuse 28</name><desc>lock=yes
+name=Schleuse 28
+tourism=attraction</desc><link href="http://osm.org/browse/node/616500029"/></wpt><wpt lat="49.179621" lon="11.4530855"><name>Schleuse 27</name><desc>lock=yes
+name=Schleuse 27
+tourism=attraction
+wheelchair=yes</desc><link href="http://osm.org/browse/node/616501379"/></wpt><wpt lat="49.1759025" lon="11.4534505"><name>Schleuse 26</name><desc>lock=yes
+name=Schleuse 26
+tourism=attraction
+wheelchair=yes</desc><link href="http://osm.org/browse/node/616501495"/></wpt><wpt lat="49.1640379" lon="11.4540014"><name>Schleuse 25</name><desc>lock=yes
+name=Schleuse 25
+tourism=attraction
+wheelchair=limited</desc><link href="http://osm.org/browse/node/616501640"/></wpt><wpt lat="49.112218" lon="11.4431994"><name>Schleuse 24</name><desc>lock=yes
+name=Schleuse 24
+tourism=attraction</desc><link href="http://osm.org/browse/node/616502093"/></wpt><wpt lat="49.1005436" lon="11.4459154"><name>Schleuse 23</name><desc>lock=yes
+name=Schleuse 23
+tourism=attraction</desc><link href="http://osm.org/browse/node/616502278"/></wpt><wpt lat="52.1506372" lon="1.0622165"><name>node/617530448</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/617530448"/></wpt><wpt lat="52.1506569" lon="1.0618517"><name>node/617530449</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/617530449"/></wpt><wpt lat="41.5130252" lon="0.5220834"><name>node/622291548</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/622291548"/></wpt><wpt lat="44.8912962" lon="-0.7169231"><name>Écluse Napoléon</name><desc>lock=yes
+name=Écluse Napoléon</desc><link href="http://osm.org/browse/node/635370469"/></wpt><wpt lat="52.2696937" lon="-2.1455413"><name>node/662274087</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/662274087"/></wpt><wpt lat="45.4171635" lon="-0.927416"><name>node/699544243</name><desc>lock=yes
+source=cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010</desc><link href="http://osm.org/browse/node/699544243"/></wpt><wpt lat="51.8927359" lon="-2.2651602"><name>Maisemore Lock</name><desc>lock=yes
+name=Maisemore Lock
+source=OS OpenData StreetView</desc><link href="http://osm.org/browse/node/719849617"/></wpt><wpt lat="51.7422891" lon="-2.2388024"><name>node/754250016</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/754250016"/></wpt><wpt lat="51.68271" lon="-1.9323825"><name>node/813353886</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/813353886"/></wpt><wpt lat="51.6824028" lon="-1.931211"><name>node/813353893</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/813353893"/></wpt><wpt lat="51.6564825" lon="-1.8759476"><name>node/817166066</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/817166066"/></wpt><wpt lat="48.201434" lon="-0.7113419"><name>node/818013591</name><desc>loc_name=écluse du Port
+loc_ref=écluse du Port
+lock=yes
+waterway=lock</desc><link href="http://osm.org/browse/node/818013591"/></wpt><wpt lat="48.1874848" lon="-0.7312366"><name>node/818014275</name><desc>loc_name=La Fourmondière
+loc_ref=La Fourmondière
+lock=yes
+waterway=lock</desc><link href="http://osm.org/browse/node/818014275"/></wpt><wpt lat="48.1919967" lon="-0.7216545"><name>node/818014716</name><desc>loc_name=écluse de la Nourrière
+loc_ref=écluse de la Nourrière
+lock=yes
+waterway=lock</desc><link href="http://osm.org/browse/node/818014716"/></wpt><wpt lat="51.6819896" lon="-3.7502206"><name>node/838752214</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/838752214"/></wpt><wpt lat="45.3583936" lon="-0.8219228"><name>node/858191444</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/858191444"/></wpt><wpt lat="51.7365634" lon="-3.6517911"><name>node/860119913</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/860119913"/></wpt><wpt lat="50.3332041" lon="7.6711531"><name>node/864917910</name><desc>description=Lahn-km : 129,28 Länge: 45,00 m Breite: 6,30 m Fallhöhe bei MW: 3,42 m Bedienart: Schleusenpersonal
+lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/864917910"/></wpt><wpt lat="44.6853428" lon="-1.0419382"><name>Écluse de Petite Taillade</name><desc>lock=yes
+name=Écluse de Petite Taillade</desc><link href="http://osm.org/browse/node/865064366"/></wpt><wpt lat="52.1321357" lon="14.6522088"><name>Zwillingsschachtschleuse Eisenhüttenstadt</name><desc>description=Zwillingsschachtschleuse
+lock=yes
+name=Zwillingsschachtschleuse Eisenhüttenstadt</desc><link href="http://osm.org/browse/node/902492920"/></wpt><wpt lat="51.3346412" lon="-2.4087176"><name>node/917131162</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/917131162"/></wpt><wpt lat="45.7032638" lon="4.8425799"><name>node/930352291</name><desc>lock=yes
+lock:VHF_channel=19
+lock_name=Pierre-Bénite</desc><link href="http://osm.org/browse/node/930352291"/></wpt><wpt lat="52.2383522" lon="14.5101217"><name>Schleuse Weißenspring</name><desc>description=außer Betrieb, umtragen erforderlich
+ft_symbol=4
+lock=yes
+name=Schleuse Weißenspring</desc><link href="http://osm.org/browse/node/932123658"/></wpt><wpt lat="52.2419159" lon="14.4858365"><name>Schleuse Hammerfort</name><desc>description=außer Betrieb, Wehranlage, umtragen schwierig
+lock=yes
+name=Schleuse Hammerfort</desc><link href="http://osm.org/browse/node/932573700"/></wpt><wpt lat="47.3710938" lon="0.7732685"><name>node/935646113</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/935646113"/></wpt><wpt lat="52.5838285" lon="0.342046"><name>Denver Lock</name><desc>lock=yes
+name=Denver Lock</desc><link href="http://osm.org/browse/node/937742397"/></wpt><wpt lat="47.3575772" lon="0.8327412"><name>node/940169307</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/940169307"/></wpt><wpt lat="47.3577635" lon="0.8322497"><name>node/940169321</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/940169321"/></wpt><wpt lat="50.6563459" lon="6.2293114"><name>node/982319572</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/982319572"/></wpt><wpt lat="49.4199766" lon="7.9898807"><name>node/989827970</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/989827970"/></wpt><wpt lat="51.3030628" lon="6.8464024"><name>node/1017737344</name><desc>lock=yes
+waterway=weir</desc><link href="http://osm.org/browse/node/1017737344"/></wpt><wpt lat="45.4071462" lon="11.9485518"><name>node/1096427757</name><desc>lock=yes
+waterway=weir</desc><link href="http://osm.org/browse/node/1096427757"/></wpt><wpt lat="47.3231269" lon="-2.1979529"><name>node/1151094302</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1151094302"/></wpt><wpt lat="52.2148021" lon="10.4227526"><name>Schleuse Üfingen</name><desc>lock=yes
+name=Schleuse Üfingen
+opening_hours=Mo-Sa 06:00-22:00; Su 08:00-16:00
+phone=+49 531866032350
+vhf=79
+waterway=lock</desc><link href="http://osm.org/browse/node/1158870454"/></wpt><wpt lat="46.7036317" lon="15.9631044"><name>node/1213737601</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1213737601"/></wpt><wpt lat="52.8672965" lon="-1.346462"><name>node/1220022615</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/1220022615"/></wpt><wpt lat="50.3442643" lon="4.2729062"><name>node/1223598400</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1223598400"/></wpt><wpt lat="51.3652858" lon="-1.7160284"><name>node/1250193567</name><desc>lock=yes
+lock_name=Wootton Rivers Bottom Lock
+lock_ref=51
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/1250193567"/></wpt><wpt lat="44.9096747" lon="-0.6000239"><name>node/1263053926</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1263053926"/></wpt><wpt lat="44.900567" lon="-0.6130112"><name>Écluse du Baron</name><desc>lock=yes
+name=Écluse du Baron</desc><link href="http://osm.org/browse/node/1264027390"/></wpt><wpt lat="44.894722" lon="-0.6764916"><name>node/1264235301</name><desc>lock=yes
+lock_name=Écluse de Bussaguet</desc><link href="http://osm.org/browse/node/1264235301"/></wpt><wpt lat="52.8064456" lon="-1.2560265"><name>Zouch Lock</name><desc>lock=yes
+lock_name=Zouch Lock
+name=Zouch Lock
+waterway=lock</desc><link href="http://osm.org/browse/node/1295751767"/></wpt><wpt lat="45.9356064" lon="7.6671939"><name>node/1300422836</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1300422836"/></wpt><wpt lat="53.5526034" lon="8.6002436"><name>Schleuse Bremerhaven</name><desc>description=Schleusenmeister: 0471/21678; 1. Apr - 31. Okt: Mo-Fr: 07.00 - 18.30; Sa: 07.30 - 18.00; So: 09.00 - 18.00; 1. Nov - 31. Mrz: Mo-Fr: 08.00 - 15.00; Sa+So: 3 Std je nach Tide.
+layer=-1
+lock=yes
+maxlength=33.5
+maxwidth=5
+name=Schleuse Bremerhaven
+note=Drempeltiefe: -1,65 SKN = -4,20 NN; Höhe Unterkante Brücke: +4,00 NN; Höhe Unterkante Tor Unterstrom (geöffnet): +4,00 NN; Höhe Unterkante Tor Oberstrom (geöffnet): +3,60 NN.</desc><link href="http://osm.org/browse/node/1333582747"/></wpt><wpt lat="53.0933632" lon="14.129587"><name>node/1334735393</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1334735393"/></wpt><wpt lat="53.0760321" lon="-0.8153309"><name>node/1343798750</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/1343798750"/></wpt><wpt lat="53.0764575" lon="-0.8148051"><name>Newark Town Lock</name><desc>lock=yes
+lock_name=Newark Town Lock
+name=Newark Town Lock
+waterway=lock</desc><link href="http://osm.org/browse/node/1343798764"/></wpt><wpt lat="45.0281114" lon="0.249937"><name>node/1373926677</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1373926677"/></wpt><wpt lat="45.0475039" lon="0.32319"><name>node/1387234448</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1387234448"/></wpt><wpt lat="45.0377988" lon="0.2943342"><name>node/1387235522</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1387235522"/></wpt><wpt lat="45.023906" lon="0.1297869"><name>node/1387246759</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1387246759"/></wpt><wpt lat="45.0173803" lon="0.1118483"><name>node/1387248072</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1387248072"/></wpt><wpt lat="45.088992" lon="0.4337029"><name>node/1390819794</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1390819794"/></wpt><wpt lat="44.9018841" lon="-0.6410265"><name>node/1400438925</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1400438925"/></wpt><wpt lat="44.9022341" lon="-0.6463141"><name>node/1400443988</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1400443988"/></wpt><wpt lat="44.1699477" lon="-0.7766452"><name>node/1401276819</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1401276819"/></wpt><wpt lat="44.3989445" lon="0.7680567"><name>node/1430224424</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1430224424"/></wpt><wpt lat="48.4173808" lon="10.0179256"><name>node/1457952335</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1457952335"/></wpt><wpt lat="51.0618154" lon="13.9347106"><name>node/1502089759</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1502089759"/></wpt><wpt lat="48.5467539" lon="8.9168057"><name>node/1523253818</name><desc>lock=yes
+waterway=weir</desc><link href="http://osm.org/browse/node/1523253818"/></wpt><wpt lat="43.4811901" lon="13.0938361"><name>node/1549365943</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1549365943"/></wpt><wpt lat="51.6951882" lon="7.8673195"><name>Schleuse Werries</name><desc>lock=yes
+name=Schleuse Werries
+opening_hours=Mo-Sa 06:00-22:00; Su 09:00-12:00
+phone=+49 2381 9019290
+vhf=22
+waterway=lock
+website=http://www.hammwiki.de/wiki/Schleuse_Werries</desc><link href="http://osm.org/browse/node/1576524981"/></wpt><wpt lat="51.7134839" lon="-3.7026614"><name>node/1678707936</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1678707936"/></wpt><wpt lat="50.6698109" lon="6.2562753"><name>node/1705509410</name><desc>lock=yes
+waterway=weir</desc><link href="http://osm.org/browse/node/1705509410"/></wpt><wpt lat="50.6662439" lon="6.2361889"><name>node/1716618366</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1716618366"/></wpt><wpt lat="47.6459335" lon="-2.7585951"><name>node/1741481080</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1741481080"/></wpt><wpt lat="47.6435744" lon="-2.7598391"><name>node/1741605429</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1741605429"/></wpt><wpt lat="51.4288856" lon="7.1137399"><name>node/1750381876</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/1750381876"/></wpt><wpt lat="48.6038892" lon="1.6958538"><name>node/1751661378</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1751661378"/></wpt><wpt lat="51.4185256" lon="14.2332836"><name>node/1768749089</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1768749089"/></wpt><wpt lat="52.2661112" lon="14.2903096"><name>Schleuse Neuhaus</name><desc>lock=yes
+name=Schleuse Neuhaus
+opening_hours=Apr-Oct 08:30-18:00
+passage_time=30
+phone=+49 3361 773245</desc><link href="http://osm.org/browse/node/1784534175"/></wpt><wpt lat="48.0014988" lon="-3.0030574"><name>node/1820556014</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1820556014"/></wpt><wpt lat="48.0088435" lon="-2.9966336"><name>node/1820556064</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1820556064"/></wpt><wpt lat="48.1862359" lon="3.2643885"><name>node/1833197510</name><desc>loc_name=St-Bond
+loc_ref=9
+lock=yes</desc><link href="http://osm.org/browse/node/1833197510"/></wpt><wpt lat="44.4863378" lon="1.6297481"><name>Bouziès</name><desc>lock=yes
+name=Bouziès
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/1875031621"/></wpt><wpt lat="44.4589185" lon="1.7005295"><name>Crégols</name><desc>lock=yes
+name=Crégols
+name:fr=Crégols
+name:oc=Cregòls</desc><link href="http://osm.org/browse/node/1875059030"/></wpt><wpt lat="50.9003832" lon="7.1103856"><name>node/1893642364</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1893642364"/></wpt><wpt lat="47.9500241" lon="-2.5450117"><name>node/1917114119</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/1917114119"/></wpt><wpt lat="46.9935782" lon="-1.8139949"><name>node/1941873147</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/1941873147"/></wpt><wpt lat="52.8362894" lon="5.9361913"><name>Driewegsluis</name><desc>lock=yes
+name=Driewegsluis</desc><link href="http://osm.org/browse/node/2081163769"/></wpt><wpt lat="52.6183951" lon="6.8990397"><name>node/2095906274</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2095906274"/></wpt><wpt lat="47.7144813" lon="12.8963571"><name>node/2184719268</name><desc>lock=yes
+waterway=weir</desc><link href="http://osm.org/browse/node/2184719268"/></wpt><wpt lat="47.9835746" lon="-2.6405196"><name>Canal de Nantes à Brest - L'Oust Canalisé</name><desc>CEMT=0
+loc_name=Porte de Garde de La Tertraie
+lock=yes
+lock_ref=42
+name=Canal de Nantes à Brest - L'Oust Canalisé
+waterway=security_lock</desc><link href="http://osm.org/browse/node/2247654475"/></wpt><wpt lat="50.3711036" lon="4.3158913"><name>node/2266217550</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2266217550"/></wpt><wpt lat="50.37121" lon="4.3164566"><name>node/2266217610</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2266217610"/></wpt><wpt lat="51.4652461" lon="-3.1549273"><name>node/2319068345</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2319068345"/></wpt><wpt lat="50.3438451" lon="4.2725738"><name>node/2395237767</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2395237767"/></wpt><wpt lat="50.3499813" lon="4.3085161"><name>node/2410245819</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2410245819"/></wpt><wpt lat="50.3495754" lon="4.3085298"><name>node/2410245849</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2410245849"/></wpt><wpt lat="51.0368258" lon="3.6841856"><name>Keersluis K2</name><desc>lock=yes
+name=Keersluis K2
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/2533739822"/></wpt><wpt lat="46.4975369" lon="-1.7936631"><name>node/2741112962</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2741112962"/></wpt><wpt lat="47.639496" lon="13.0179501"><name>node/2865354597</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2865354597"/></wpt><wpt lat="47.6395284" lon="13.0179029"><name>node/2879058471</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2879058471"/></wpt><wpt lat="47.3837074" lon="7.3618687"><name>node/2899699966</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2899699966"/></wpt><wpt lat="47.6959455" lon="13.0469029"><name>node/2908241390</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2908241390"/></wpt><wpt lat="45.3381131" lon="7.900203"><name>node/2938195499</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/2938195499"/></wpt><wpt lat="44.8945711" lon="-0.6713967"><name>node/3089814215</name><desc>lock=yes
+lock_name=Écluse de Jallepont</desc><link href="http://osm.org/browse/node/3089814215"/></wpt><wpt lat="48.0214678" lon="-3.1231901"><name>node/3131320250</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3131320250"/></wpt><wpt lat="48.0214959" lon="-3.1231614"><name>node/3131320257</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3131320257"/></wpt><wpt lat="52.2429431" lon="5.9768114"><name>node/3262983112</name><desc>description=De sluis is anno 2009 niet voor de scheepvaart open
+disused=yes
+lock=yes
+wikidata=Q2676107
+wikipedia=nl:Koudhoornse Sluis</desc><link href="http://osm.org/browse/node/3262983112"/></wpt><wpt lat="52.2433139" lon="5.9769626"><name>node/3262983113</name><desc>description=De sluis is anno 2009 niet voor de scheepvaart open
+disused=yes
+lock=yes
+wikidata=Q2676107
+wikipedia=nl:Koudhoornse Sluis</desc><link href="http://osm.org/browse/node/3262983113"/></wpt><wpt lat="49.1374009" lon="9.2000538"><name>km 113,6</name><desc>channel=UKW 82
+lock=yes
+lock_name=Heilbronn Schleuse
+ref=km 113,6
+waterway=canal</desc><link href="http://osm.org/browse/node/3424724354"/></wpt><wpt lat="45.2396546" lon="11.2620883"><name>node/3444766631</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3444766631"/></wpt><wpt lat="45.2397261" lon="11.2620569"><name>node/3444766641</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3444766641"/></wpt><wpt lat="44.6922618" lon="-1.0455131"><name>Ecluse de Petite Baie</name><desc>lock=yes
+name=Ecluse de Petite Baie</desc><link href="http://osm.org/browse/node/3723279221"/></wpt><wpt lat="44.6925504" lon="-1.0481222"><name>node/3723279531</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3723279531"/></wpt><wpt lat="44.6939247" lon="-1.0366813"><name>node/3723279549</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3723279549"/></wpt><wpt lat="44.6939531" lon="-1.0560416"><name>Écluse de Terre Blanche</name><desc>lock=yes
+name=Écluse de Terre Blanche</desc><link href="http://osm.org/browse/node/3723279552"/></wpt><wpt lat="44.6945596" lon="-1.0376646"><name>node/3723279562</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3723279562"/></wpt><wpt lat="44.6947952" lon="-1.0540541"><name>Écluse de la Petite Baie</name><desc>lock=yes
+name=Écluse de la Petite Baie</desc><link href="http://osm.org/browse/node/3723279567"/></wpt><wpt lat="44.6952977" lon="-1.0520709"><name>Écluse du Hasera</name><desc>lock=yes
+name=Écluse du Hasera</desc><link href="http://osm.org/browse/node/3723279581"/></wpt><wpt lat="44.6962595" lon="-1.0618548"><name>Écluse de Béton</name><desc>lock=yes
+name=Écluse de Béton</desc><link href="http://osm.org/browse/node/3723279588"/></wpt><wpt lat="44.6856545" lon="-1.0554749"><name>node/3723382124</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3723382124"/></wpt><wpt lat="44.6869544" lon="-1.0575648"><name>node/3723382141</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3723382141"/></wpt><wpt lat="44.6880348" lon="-1.0586039"><name>node/3723382152</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3723382152"/></wpt><wpt lat="44.6925262" lon="-1.0398386"><name>node/3723382188</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3723382188"/></wpt><wpt lat="44.6958368" lon="-1.0416141"><name>node/3723382202</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3723382202"/></wpt><wpt lat="44.696458" lon="-1.0676209"><name>node/3723382207</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3723382207"/></wpt><wpt lat="44.6865901" lon="-1.0348957"><name>Écluse Neuve du Grand Réservoir</name><desc>lock=yes
+name=Écluse Neuve du Grand Réservoir</desc><link href="http://osm.org/browse/node/3723382208"/></wpt><wpt lat="44.6837003" lon="-1.0454954"><name>Écluse de Duprat</name><desc>lock=yes
+name=Écluse de Duprat</desc><link href="http://osm.org/browse/node/3723382209"/></wpt><wpt lat="44.6958001" lon="-1.0404679"><name>Écluse de la Branche</name><desc>lock=yes
+name=Écluse de la Branche</desc><link href="http://osm.org/browse/node/3723382210"/></wpt><wpt lat="44.683711" lon="-1.0431821"><name>Écluse de la Pompe</name><desc>lock=yes
+name=Écluse de la Pompe</desc><link href="http://osm.org/browse/node/3723382211"/></wpt><wpt lat="44.6832773" lon="-1.0479383"><name>Écluse du Canal Piquet</name><desc>lock=yes
+name=Écluse du Canal Piquet</desc><link href="http://osm.org/browse/node/3723382212"/></wpt><wpt lat="44.6824856" lon="-1.0490642"><name>Écluse du Coin du Sud</name><desc>lock=yes
+name=Écluse du Coin du Sud</desc><link href="http://osm.org/browse/node/3723382213"/></wpt><wpt lat="44.6882091" lon="-1.0277887"><name>Écluse du Pont</name><desc>lock=yes
+name=Écluse du Pont</desc><link href="http://osm.org/browse/node/3723382214"/></wpt><wpt lat="44.6861368" lon="-1.0400602"><name>Écluse du Tourniquet</name><desc>lock=yes
+name=Écluse du Tourniquet</desc><link href="http://osm.org/browse/node/3723382215"/></wpt><wpt lat="50.0356169" lon="10.2121592"><name>Schließfächer</name><desc>lock=yes
+name=Schließfächer</desc><link href="http://osm.org/browse/node/3724841031"/></wpt><wpt lat="50.8293261" lon="-4.5515425"><name>Bude Sea Lock</name><desc>lock=yes
+name=Bude Sea Lock
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/3732003599"/></wpt><wpt lat="42.8906076" lon="10.7907409"><name>node/3829930923</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/3829930923"/></wpt><wpt lat="45.5580826" lon="10.1278985"><name>node/4008430970</name><desc>lock=yes
+note=Chiusa sulla roggia.</desc><link href="http://osm.org/browse/node/4008430970"/></wpt><wpt lat="45.5580918" lon="10.1279091"><name>node/4008430972</name><desc>lock=yes
+note=Chiusa sulla roggia.</desc><link href="http://osm.org/browse/node/4008430972"/></wpt><wpt lat="45.2314965" lon="-0.7480304"><name>node/4344907162</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/4344907162"/></wpt><wpt lat="47.0391918" lon="8.4431902"><name>node/4499987562</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/4499987562"/></wpt><wpt lat="53.0374116" lon="7.3180419"><name>Schleuse Herbrum</name><desc>lock=yes
+name=Schleuse Herbrum
+waterway=lock</desc><link href="http://osm.org/browse/node/4831598110"/></wpt><wpt lat="51.7272867" lon="-2.0960142"><name>node/5147747634</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/5147747634"/></wpt><wpt lat="51.7272329" lon="-2.0965084"><name>node/5147747635</name><desc>lock=yes
+waterway=lock_gate</desc><link href="http://osm.org/browse/node/5147747635"/></wpt><wpt lat="48.27189" lon="16.26071"><name>node/5280483846</name><desc>amenity=hunting_stand
+lock=yes</desc><link href="http://osm.org/browse/node/5280483846"/></wpt><wpt lat="44.3064245" lon="11.6455797"><name>node/5630763846</name><desc>lock=yes</desc><link href="http://osm.org/browse/node/5630763846"/></wpt></gpx>
